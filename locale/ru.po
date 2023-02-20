@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Параметры"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Ничего не нужно экономить. Вы все равно хотите сэкономить?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Нет несохраненных изменений для {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Сохранить {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Сохранить все"
+
+#: @default%236
+msgid "Close"
+msgstr "Закрывать"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Обновить существующий {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Широта, Долгота для расчета высоты Солнца."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Запрос {} для получения информации на основе вашего IP-адреса?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Не удалось получить информацию из {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Обнаруживать"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Определите местоположение, запросив внешний IP-адрес этого рабочего стола."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Когда это сообщение будет закрыто, vdu_controls перезапустится."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Задать значение: Не удалось связаться с отображением {}"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Монитор выключен?<br>Слишком ли низка установка множителя сна?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' имеет неопределенное значение '{value}'. "
+"Допустимыми значениями являются {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Если вы хотите расширить набор разрешенных значений, вы можете отредактировать метаданные для {} на "
+"панели настроек.  Для получения более подробной информации см. справочную страницу, касающуюся "
+"конфигурационных файлов VDU/VDU-модели."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Монитор {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Если вы хотите расширить набор разрешенных значений, обратитесь к справочной странице, касающейся "
+"конфигурационных файлов VDU/VDU-model."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Монитор {} не имеет элемента управления VCP для {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Нет возможности чтения/записи для vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} позже сегодня в {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} ранее сегодня на {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} приостановлено для {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "Солнце не встает так высоко сегодня"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Панель управления"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Пресетов"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Шкала серого"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Освежать"
+
+#: @default%2330
+msgid "About"
+msgstr "Около"
+
+#: @default%2331
+msgid "Help"
+msgstr "Справка"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Покидать"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Не удалось получить возможности для монитора {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Не удается автоматически настроить этот монитор.\n"
+" Вы можете выбрать:\n"
+" 1: Повторите попытку получения возможностей.\n"
+" 2: Игнорируйте этот монитор.\n"
+" 3: Примените стандартные элементы управления яркостью и контрастностью."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Игнорирование {} монитора."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Записал конфигурационные файлы {} в {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Предполагая, что {} имеет элементы управления яркостью и контрастностью."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr ""
+"Пожалуйста, проверьте эти файлы и отредактируйте или удалите их, если они вызывают дальнейшие "
+"проблемы."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Монитор {} {} не имеет каких-либо доступных элементов управления."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "Монитор будет опущен из панели управления."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Управляемые мониторы не найдены.\n"
+"Используйте кнопку обновления, если она станет доступной.\n"
+"Убедитесь, что ddcutil и i2c установлены и настроены."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Управляемые мониторы не найдены."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Установлен ли ddcutil?  Установлен и настроен ли i2c?\n"
+"\n"
+"Запустите vdu_controls --debug в консоли и проверьте наличие дополнительных сообщений.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Последняя ошибка ddcutil: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Отредактируйте параметры для этого стиля."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Обновите этот стиль с текущих настроек VDU."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Перемещение вверх по порядку меню."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Перемещение вниз по порядку меню."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Удалите этот стиль."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Нажмите, чтобы пропустить: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Нажмите, чтобы снова включить: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Выберите значок стиля."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Значок SVG или PNG файла"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG или PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Триггер высоты Солнца: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "сегодня в {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "рассвет"
+
+#: @default%2358
+msgid "dusk"
+msgstr "сумерки"
+
+#: @default%2359
+msgid "twilight"
+msgstr "сумерки"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "ночной"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "местоположение не определено (см. настройки)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Введите новое имя шаблона настроек."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Сохраните текущие настройки VDU в новом стиле."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Новый пресет:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Элементы управления, включающие:"
+
+#: @default%2368
+msgid "close"
+msgstr "закрывать"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Выберите параметры для сохранения {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Обновить существующий предустановленный {} с текущими настройками монитора?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Удалить {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Создайте новый пресет:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Правка {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Элементы управления для включения в {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Заменить существующий пресет '{}'?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Ошибка: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Установлен ли множитель --sleep-множитель слишком низко?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Подробности: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Справочник по шкале серого"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Справочник по шкале серого для настройки VDU.\n"
+"\n"
+"Установите максимальную контрастность (для HDR-мониторов)\n"
+"попробуйте что-то ниже, например 70%) и отрегулируйте яркость\n"
+"до тех пор, пока не будет воспринято как можно больше прямоугольников.\n"
+"\n"
+"Используйте content-menu для создания дополнительных диаграмм и\n"
+"перетащите их на каждый дисплей.\n"
+"\n"
+"Размер этой диаграммы можно изменять. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "О vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Для изменения параметра с поддержкой панели задач требуется перезагрузка vdu_controls."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"Элементы управления VDU\n"
+"Ищем мониторы DDC..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Загруженные {} переводы из {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Не удалось перезапустить {}.  Перезагрузите компьютер вручную."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "Вероятно, это связано с тем, что {} не является исполняемым или не находится в вашем PATH."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "восточное небо"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "западное небо"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Загрузка {} переводов из {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "яркость"
+
+#: @default%2391
+msgid "contrast"
+msgstr "контраст"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "громкость звука"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "отключение звука"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "высокие аудио"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "аудио басы"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "громкость аудио микрофона"
+
+#: @default%2397
+msgid "input source"
+msgstr "источник входного сигнала"
+
+#: @default%2398
+msgid "power mode"
+msgstr "режим питания"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "цветовая температура"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-коды"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "мультипликатор сна"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "переопределение возможностей"
+
+#: @default%23103
+msgid "location"
+msgstr "местоположение"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "с поддержкой лотка для системы"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "с поддержкой экрана-заставки"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "предупреждения с поддержкой предупреждений"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "с поддержкой отладки"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "с поддержкой системного журнала"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-параметры"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-возможности"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "громкость аудиодинамика"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "Язык экранного меню"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Создать новый {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (в зависимости от {} погоды)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Игнорирование требований погоды, невозможность запроса локальной погоды: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Неизвестное местоположение {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Пожалуйста, проверьте Местоположение в настройках"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Не удалось получить погоду от {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Дополнительные погодные требования"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Погодные условия будут извлечены из {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Не удалось проверить местоположение погоды: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Использование более новых переводов файла .ts {} из {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Использование переводов {} из {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "с поддержкой переводов"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"Сайт {} сообщает ваше местоположение как {}, {}, {}, {},{}, что примерно {} {} от широты и долготы, "
+"указанных в Настройках."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Погода для {} будет получена из {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Для изменения параметра с включенной поддержкой переводов требуется перезапуск vdu_controls."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Добро пожаловать в vdu_controls версию {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Пожалуйста, ознакомьтесь с примечаниями к онлайн-релизу:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Пожалуйста, проверьте местоположение, указанное в Настройках."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Предустановленная активация {} была отменена из-за погоды в {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "внеплановый"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "Удалось"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "пропущено, заменено"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "отмена погоды"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "рейсовый"
+
+#: @default%23139
+msgid "suspended"
+msgstr "подвешенный"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Восстановление пресета\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Проверка пресетов"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Сохранено {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Удалено {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Восстановлено {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Предустановленная активация {} в {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Восстановить {} (немедленно)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Медленный переход"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Шаг перехода"
+
+#: @default%23149
+msgid "seconds"
+msgstr "товары второго сорта"
+
+#: @default%23150
+msgid "No"
+msgstr "Нет"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "По расписанию"
+
+#: @default%23152
+msgid "Always"
+msgstr "Всегда"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Переход к предустановке {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Переход к предустановленному {} (затраченное время {} секунд)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Восстановлено {} (затраченное время {} секунд)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Прерванное восстановление {}"

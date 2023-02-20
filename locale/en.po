@@ -1,0 +1,718 @@
+msgid ""
+msgstr ""
+
+#: @default%231
+msgid "Settings"
+msgstr "Settings"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Nothing needs saving. Do you wish to save anyway?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "No unsaved changes for {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Save {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Save All"
+
+#: @default%236
+msgid "Close"
+msgstr "Close"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Update existing {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Latitude,Longitude for solar elevation calculations."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Query {} to obtain information based on your IP-address?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Failed to obtain info from {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Detect"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Detect location by querying this desktop's external IP address."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "When this message is dismissed, vdu_controls will restart."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Set value: Failed to communicate with display {}"
+
+#: @default%2315
+msgid ""
+"Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr ""
+"Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value "
+"'{value}'. Valid values are {valid}."
+msgstr ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value "
+"'{value}'. Valid values are {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata "
+"for {} in the settings panel.  For more details see the man page concerning "
+"VDU/VDU-model config files."
+msgstr ""
+"If you want to extend the set of permitted values, you can edit the metadata "
+"for {} in the settings panel.  For more details see the man page concerning "
+"VDU/VDU-model config files."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Monitor {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page "
+"concerning VDU/VDU-model config files ."
+msgstr ""
+"If you want to extend the set of permitted values, see the man page "
+"concerning VDU/VDU-model config files ."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Monitor {} lacks a VCP control for {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "No read/write ability for vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} later today at {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} earlier today at {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} suspended for  {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "the sun does not rise this high today"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Control Panel"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Presets"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Grey Scale"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Refresh"
+
+#: @default%2330
+msgid "About"
+msgstr "About"
+
+#: @default%2331
+msgid "Help"
+msgstr "Help"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Quit"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Failed to obtain capabilities for monitor {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Ignoring {} monitor."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Wrote {} config files to {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Assuming {} has brightness and contrast controls."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further "
+"issues."
+msgstr ""
+"\n"
+"Please check these files and edit or remove them if they cause further "
+"issues."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Monitor {} {} lacks any accessible controls."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "The monitor will be omitted from the control panel."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "No controllable monitors found."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Most recent ddcutil error: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Edit the options for this preset."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Update this preset from the current VDU settings."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Move up the menu order."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Move down the menu order."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Delete this preset."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Press to skip: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Press to re-enable: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Choose a preset icon."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Icon SVG or PNG file"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG or PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Solar elevation trigger: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "today at {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "dawn"
+
+#: @default%2358
+msgid "dusk"
+msgstr "dusk"
+
+#: @default%2359
+msgid "twilight"
+msgstr "twilight"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "nighttime"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "location undefined (see settings)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Enter a new preset name."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Save current VDU settings to a new preset."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "New Preset:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Controls to include:"
+
+#: @default%2368
+msgid "close"
+msgstr "close"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Choose which settings to save for {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Update existing {} preset with current monitor settings?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Delete {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Create new preset:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Edit {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Controls to include in {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Replace existing '{}' preset?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Error: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Is --sleep-multiplier set too low?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Details: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Grey Scale Reference"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "About vdu_controls"
+
+#: @default%2382
+msgid ""
+"The change to the system-tray-enabled option requires vdu_controls to "
+"restart."
+msgstr ""
+"The change to the system-tray-enabled option requires vdu_controls to "
+"restart."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Loaded {} translations from {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Restart of {} failed.  Please restart manually."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "This is probably because {} is not executable or is not on your PATH."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "eastern-sky"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "western-sky"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Loading {} translations from {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "brightness"
+
+#: @default%2391
+msgid "contrast"
+msgstr "contrast"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "audio volume"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "audio mute"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "audio treble"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "audio bass"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "audio mic volume"
+
+#: @default%2397
+msgid "input source"
+msgstr "input source"
+
+#: @default%2398
+msgid "power mode"
+msgstr "power mode"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "color temperature"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-codes"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "sleep-multiplier"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "capabilities-override"
+
+#: @default%23103
+msgid "location"
+msgstr "location"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "system-tray-enabled"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "splash-screen-enabled"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "warnings-enabled"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "debug-enabled"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "syslog-enabled"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-capabilities"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "audio speaker volume"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD language"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Create new {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (subject to {} weather)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Ignoring weather requirements, unable to query local weather: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Unknown location {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Please check Location in Settings"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Failed to get weather from {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Additional weather requirements"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Weather conditions will be retrieved from {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Failed to validate weather location: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Using newer .ts file {} translations from {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Using {} translations from {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "translations-enabled"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from "
+"the latitude and longitude specified in Settings."
+msgstr ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from "
+"the latitude and longitude specified in Settings."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Weather for {} will be retrieved from {}"
+
+#: @default%23129
+msgid ""
+"The change to the translations-enabled option requires vdu_controls to "
+"restart."
+msgstr ""
+"The change to the translations-enabled option requires vdu_controls to "
+"restart."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Welcome to vdu_controls version {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Please read the online release notes:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Please check the location specified in Settings."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Preset {} activation was cancelled due to weather at {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "unscheduled"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "succeeded"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "skipped, superseded"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "weather cancellation"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "scheduled"
+
+#: @default%23139
+msgid "suspended"
+msgstr "suspended"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Restoring Preset\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Checking Presets"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Saved {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Deleted {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Restored {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Preset {} activating at {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Restore {} (immediately)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Transition slowly"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Transition step"
+
+#: @default%23149
+msgid "seconds"
+msgstr "seconds"
+
+#: @default%23150
+msgid "No"
+msgstr "No"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "On schedule"
+
+#: @default%23152
+msgid "Always"
+msgstr "Always"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Transitioning to preset {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Transitioning to preset {} (elapsed time {} seconds)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Restored {} (elapsed time {} seconds)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Interrupted restoration of {}"

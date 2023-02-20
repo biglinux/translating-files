@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Postavkama"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Ništa ne treba spašavati. Želite li ipak uštedjeti?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Nema nespremljenih promjena za {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Spremi {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Spremi sve"
+
+#: @default%236
+msgid "Close"
+msgstr "Blizak"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Želite li ažurirati postojeći {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Zemljopisna širina,Dužina za izračune solarne nadmorske visine."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Upit {} za dobivanje informacija na temelju vaše IP adrese?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Dohvaćanje informacija iz {}: {} nije uspjelo"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Otkriti"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Otkrijte mjesto pretraživanjem vanjske IP adrese ove radne površine."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Kada se ova poruka odbaci, ponovno će se pokrenuti vdu_controls."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Postavljena vrijednost: Komunikacija sa zaslonom {} nije uspjela"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Je li monitor isključen?<br>Je li postavka množitelja spavanja preniska?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Prikaži {vnum} {vdesc} značajku {code} '({cdesc})' ima nedefiniranu vrijednost '{value}'. Valjane "
+"vrijednosti su {valjane}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Ako želite proširiti skup dopuštenih vrijednosti, metapodatke za {} možete urediti na ploči s "
+"postavkama.  Za više detalja pogledajte mušku stranicu koja se odnosi na VDU / VDU-model "
+"konfiguracijske datoteke."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Monitor {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Ako želite proširiti skup dopuštenih vrijednosti, pogledajte stranicu čovjeka koja se odnosi na "
+"VDU/ VDU-model konfiguracijske datoteke ."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Monitoru {} nedostaje VCP kontrola za {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Za vcp_code {}nema mogućnosti čitanja/pisanja."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} kasnije danas u {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} ranije danas u {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} suspendiran za {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "sunce danas ne izlazi ovako visoko"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Upravljačka ploča"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Presets"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Siva skala"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Osvježiti"
+
+#: @default%2330
+msgid "About"
+msgstr "O"
+
+#: @default%2331
+msgid "Help"
+msgstr "Pomoć"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Prestati"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Dohvaćanje mogućnosti za monitor {} {} {} {}{}nije uspjelo."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Nije moguće automatski konfigurirati ovaj monitor.\n"
+" Možete odabrati:\n"
+" 1: Ponovno pokušajte dobiti mogućnosti.\n"
+" 2: Zanemarite ovaj monitor.\n"
+" 3: Primijenite standardne kontrole svjetline i kontrasta."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Zanemarivanje {} monitora."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Napisao je {} konfiguracijske datoteke u {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Pod pretpostavkom da {} ima kontrole svjetline i kontrasta."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "Provjerite te datoteke i uredite ih ili uklonite ako uzrokuju dodatne probleme."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Monitor {} {} nema nijednu pristupačnu kontrolu."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "Monitor će biti izostavljen s upravljačke ploče."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Nisu pronađeni kontrolni monitori.\n"
+"Koristite gumb za osvježavanje ako neki od njih postane dostupan.\n"
+"Provjerite jesu li ddcutil i i2c instalirani i konfigurirani."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Nisu pronađeni kontrolni monitori."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Je li ddcutil instaliran?  Je li i2c instaliran i konfiguriran?\n"
+"\n"
+"Pokrenite vdu_controls --ispravljanje pogrešaka u konzoli i provjerite ima li dodatnih poruka.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Najnovija ddcutil pogreška: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Uredite mogućnosti za ovu gotovu konfiguraciju."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Ažurirajte ovu gotovu konfiguraciju iz trenutnih postavki VDU-a."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Pomicanje redoslijeda izbornika prema gore."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Pomicanje prema dolje redoslijedom izbornika."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Izbrišite ovu gotovu konfiguraciju."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Pritisnite za preskakanje: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Pritisnite da biste ponovno omogućili: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Odaberite unaprijed postavljenu ikonu."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Ikona SVG ili PNG datoteka"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG ili PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Okidač solarne nadmorske visine: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "danas u {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "zora"
+
+#: @default%2358
+msgid "dusk"
+msgstr "sumrak"
+
+#: @default%2359
+msgid "twilight"
+msgstr "suton"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "Noćna"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "mjesto nedefinirano (pogledajte postavke)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Unesite novi unaprijed postavljeni naziv."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Spremite trenutne postavke VDU-a u novu gotovu konfiguraciju."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Nova gotova konfiguracija:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Kontrole koje uključuju:"
+
+#: @default%2368
+msgid "close"
+msgstr "blizak"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Odaberite postavke koje želite spremiti za {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Želite li ažurirati postojeću gotovu konfiguraciju {} trenutnim postavkama monitora?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Želite li izbrisati {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Stvori novu gotovu konfiguraciju:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Uredi {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Kontrole koje treba uključiti u {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Želite li zamijeniti postojeću gotovu konfiguraciju '{}'?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Pogreška: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Je li --množitelj spavanja postavljen prenisko?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Detalji: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Referenca sive skale"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Referenca sive skale za VDU podešavanje.\n"
+"\n"
+"Postavite kontrast prema maksimumu (za HDR monitore\n"
+"pokušajte nešto niže, poput 70%) i prilagodite svjetlinu\n"
+"dok se ne uoči što više pravokutnika.\n"
+"\n"
+"Pomoću izbornika sadržaja stvorite dodatne grafikone i\n"
+"povucite ih na svaki zaslon.\n"
+"\n"
+"Ovaj grafikon je za višekratnu veličinu. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "O vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Promjena mogućnosti sistemske ladice zahtijeva ponovno pokretanje vdu_controls."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"VDU kontrole\n"
+"Tražim DDC monitore..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Učitani {} prijevodi iz {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Ponovno pokretanje programa {} nije uspjelo.  Ponovno pokrenite ručno."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "To je vjerojatno zato što {} nije izvršna datoteka ili nije na vašem PATH-u."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "istočno nebo"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "zapadno nebo"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Učitavanje {} prijevoda iz {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "vedrina"
+
+#: @default%2391
+msgid "contrast"
+msgstr "razlika"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "glasnoća zvuka"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "Isključivanje zvuka"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "audio treble"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "audio bas"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "Glasnoća audio mikrofona"
+
+#: @default%2397
+msgid "input source"
+msgstr "ulazni izvor"
+
+#: @default%2398
+msgid "power mode"
+msgstr "način napajanja"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "temperatura boje"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-codes"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "množitelj spavanja"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "mogućnosti-nadjačavanje"
+
+#: @default%23103
+msgid "location"
+msgstr "lokacija"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "omogućena paleta sustava"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "omogućeno prskanje zaslona"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "omogućena upozorenja"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "Omogućeno ispravljanje pogrešaka"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "syslog s omogućenim"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-capabilities"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "glasnoća audio zvučnika"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD jezik"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Želite li stvoriti novi {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (podložno vremenu {} )"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Zanemarivanje vremenskih preduvjeta, nije moguće postaviti upit lokalnom vremenu: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Nepoznato mjesto {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Provjerite Mjesto u postavkama"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Nije uspjelo dohvaćanje vremenske prognoze iz {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Dodatni vremenski zahtjevi"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Vremenski uvjeti preuzet će se iz {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Provjera lokacije vremenske prognoze nije uspjela: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Korištenje novijih .ts datoteka {} prijevoda iz {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Korištenje {} prijevoda s {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "omogućeni prijevodi"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"Web-mjesto {} prijavljuje vaše mjesto kao {}, {}, {},{} koje govori o {} {} iz zemljopisne širine i "
+"dužine navedene u Postavkama."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Vrijeme za {} bit će dohvaćeno iz {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Promjena mogućnosti omogućene za prijevode zahtijeva ponovno pokretanje vdu_controls."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Dobro došli u vdu_controls verziju {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Pročitajte bilješke o mrežnom izdanju:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Provjerite mjesto navedeno u Postavkama."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Unaprijed postavljena aktivacija {} prekinuta je zbog vremenske prognoze u {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "neplanirano"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "Uspjeli"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "preskočeno, zamijenjeno"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "vremenska prognoza otkazivanja"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "predviđen"
+
+#: @default%23139
+msgid "suspended"
+msgstr "zaustavljena"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Vraćanje gotove konfiguracije\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Provjera gotovih konfiguracija"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Spremljeno {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Izbrisano {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Vraćeno {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Unaprijed postavljeno {} aktiviranje na {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Vrati {} (odmah)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Polako prijelaz"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Korak prijelaza"
+
+#: @default%23149
+msgid "seconds"
+msgstr "sekunde"
+
+#: @default%23150
+msgid "No"
+msgstr "Ne"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "Prema rasporedu"
+
+#: @default%23152
+msgid "Always"
+msgstr "Uvijek"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Prijelaz na gotovu konfiguraciju {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Prijelaz na gotovu konfiguraciju {} (proteklo vrijeme {} sekundi)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Vraćeno {} (proteklo vrijeme {} sekundi)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Prekinuta obnova programa {}"

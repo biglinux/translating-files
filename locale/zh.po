@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "设置"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "没有什么需要保存。你还想存吗？"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "没有未保存的 {} 更改。"
+
+#: @default%234
+msgid "Save {}"
+msgstr "保存 {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "全部保存"
+
+#: @default%236
+msgid "Close"
+msgstr "关闭"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "更新现有的{}？"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "纬度，经度用于太阳高程计算。"
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "查询 {} 以根据您的 IP 地址获取信息？"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "无法从 {}： {} 获取信息"
+
+#: @default%2311
+msgid "Detect"
+msgstr "检测"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "通过查询此桌面的外部 IP 地址来检测位置。"
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "当此消息被关闭时，vdu_controls将重新启动。"
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "设置值：无法与显示器 {} 通信"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "显示器是否关闭？<br>睡眠乘数设置是否太低？"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr "Display {vnum} {vdesc} feature {code} '（{cdesc}）' 有一个未定义的值 '{value}'。有效值为 {valid}。"
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr "如果要扩展允许的值集，可以在设置面板中编辑 {} 的元数据。 有关更多详细信息，请参见有关 VDU/VDU 模型配置文件的手册页。"
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "监视器 {}： {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr "如果要扩展允许的值集，请参阅有关 VDU/VDU 模型配置文件的手册页。"
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "监视器 {} 缺少 {} 的 VCP 控件。"
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "没有vcp_code {} 的读/写能力。"
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} 今天晚些时候在 {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} 今天早些时候在 {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} 暂停 {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "今天太阳不会升这么高"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "控制面板"
+
+#: @default%2327
+msgid "Presets"
+msgstr "预设"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "灰度"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "刷新"
+
+#: @default%2330
+msgid "About"
+msgstr "大约"
+
+#: @default%2331
+msgid "Help"
+msgstr "帮助"
+
+#: @default%2332
+msgid "Quit"
+msgstr "退出"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "无法获取监视器 {} {} {} 的功能。"
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"无法自动配置此监视器。\n"
+" 您可以选择：\n"
+" 1：重试获取功能。\n"
+" 2：忽略此显示器。\n"
+" 3：应用标准亮度和对比度控制。"
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "忽略 {} 监视器。"
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "已将 {} 配置文件写入 {}。"
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "假设 {} 具有亮度和对比度控件。"
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "请检查这些文件，如果它们导致进一步的问题，请编辑或删除它们。"
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "监视器 {} {} 缺少任何可访问的控件。"
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "监视器将从控制面板中省略。"
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"未找到可控监视器。\n"
+"使用刷新按钮（如果有可用）。\n"
+"检查是否已安装和配置 ddcutil 和 i2c。"
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "未找到可控监视器。"
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"是否安装了 ddcutil？ 是否安装和配置 i2c？\n"
+"\n"
+"在控制台中运行 vdu_controls --debug 并检查其他消息。\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "（最近的 ddcutil 错误：{}）"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "编辑此预设的选项。"
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "从当前 VDU 设置更新此预设。"
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "上移菜单顺序。"
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "向下移动菜单顺序。"
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "删除此预设。"
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "按下可跳过： "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "按下可重新启用： "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "选择一个预设图标。"
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "图标 SVG 或 PNG 文件"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG 或 PNG （*.svg *.png）"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "太阳高程触发器： "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "今天在{}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "黎明"
+
+#: @default%2358
+msgid "dusk"
+msgstr "黄昏"
+
+#: @default%2359
+msgid "twilight"
+msgstr "黄昏"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "夜间"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "位置未定义（请参阅设置）"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "输入新的预设名称。"
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "将当前 VDU 设置保存到新预设。"
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "新预设："
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "控件包括："
+
+#: @default%2368
+msgid "close"
+msgstr "关闭"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "选择要为 {} 保存的设置"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "使用当前监视器设置更新现有 {} 预设？"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "删除{}？"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "创建新预设："
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "编辑 {}："
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "要包含在 {} 中的控件："
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "替换现有的“{}”预设？"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "错误：{}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "--睡眠乘数设置得太低了吗？"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "详细信息： {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "灰度参考"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"用于 VDU 调整的灰度参考。\n"
+"\n"
+"将对比度设置为最大值（对于 HDR 显示器\n"
+"尝试较低的方法，例如 70%）并调整亮度\n"
+"直到可以感知尽可能多的矩形。\n"
+"\n"
+"使用内容菜单创建其他图表和\n"
+"将它们拖到每个显示器上。\n"
+"\n"
+"此图表可调整大小。 "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "关于vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "对启用系统托盘的选项的更改需要重新启动vdu_controls。"
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"VDU 控制\n"
+"正在寻找 DDC 显示器..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "从 {} 加载 {} 翻译"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "重新启动 {} 失败。 请手动重新启动。"
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "这可能是因为 {} 不可执行或不在您的 PATH 上。"
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "东方天空"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "西天"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "从 {} 加载 {} 翻译"
+
+#: @default%2390
+msgid "brightness"
+msgstr "亮度"
+
+#: @default%2391
+msgid "contrast"
+msgstr "反差"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "音频音量"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "音频静音"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "音频高音"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "音频低音"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "音频麦克风音量"
+
+#: @default%2397
+msgid "input source"
+msgstr "输入源"
+
+#: @default%2398
+msgid "power mode"
+msgstr "电源模式"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "色温"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "启用 VCP 代码"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "睡眠倍增器"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "功能覆盖"
+
+#: @default%23103
+msgid "location"
+msgstr "位置"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "VDU-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "已启用系统托盘"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "启用初始屏幕"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "已启用警告"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "已启用调试"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "启用系统日志"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "VDU-控件-小部件"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "DDCutil-capabilities"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "音频扬声器音量"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD 语言"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "创建新的 {}？"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " （视{}天气而定）"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "忽略天气要求，无法查询当地天气：{}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "未知位置 {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "请在“设置”中检查位置"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "无法从 {} 获取天气"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "其他天气要求"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "天气状况将从{}检索"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "无法验证天气位置：{}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "使用来自 {} 的较新的 .ts 文件 {} 翻译"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "使用 {} 中的 {} 翻译"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "支持翻译"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr "站点 {} 将您的位置报告为 {}、{}、{}，{}，这与“设置”中指定的纬度和经度大约 {} {}。"
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "{} 的天气将从 {} 中检索"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "对启用翻译选项的更改需要重新启动vdu_controls。"
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "欢迎来到vdu_controls版本 {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "请阅读在线发行说明："
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "请检查设置中指定的位置。"
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "预设 {} 激活因天气原因被取消 {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "临时"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "成功"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "跳过，被取代"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "天气取消"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "计划"
+
+#: @default%23139
+msgid "suspended"
+msgstr "暂停"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"恢复预设\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "检查预设"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "已保存 {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "已删除 {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "已恢复 {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "预设 {} 在 {} 处激活"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "还原 {}（立即）"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "缓慢过渡"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "过渡步骤"
+
+#: @default%23149
+msgid "seconds"
+msgstr "秒"
+
+#: @default%23150
+msgid "No"
+msgstr "不"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "按期"
+
+#: @default%23152
+msgid "Always"
+msgstr "总是"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "过渡到预设 {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "正在过渡到预设 {}（经过的时间 {} 秒）..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "已还原 {}（已用时间 {} 秒）"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "中断恢复 {}"

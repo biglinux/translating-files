@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "설정"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "아무것도 저장할 필요가 없습니다. 그래도 저장 하시겠습니까?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "{}에 대해 저장되지 않은 변경 내용이 없습니다."
+
+#: @default%234
+msgid "Save {}"
+msgstr "{} 저장"
+
+#: @default%235
+msgid "Save All"
+msgstr "모두 저장"
+
+#: @default%236
+msgid "Close"
+msgstr "닫다"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "기존 {}을 업데이트하시겠습니까?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "위도, 태양 고도 계산을 위한 경도."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "IP 주소를 기반으로 정보를 얻기 위해 {}을(를) 쿼리하시겠습니까?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "{}에서 정보를 가져오지 못했습니다: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "감지"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "이 데스크톱의 외부 IP 주소를 쿼리하여 위치를 검색합니다."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "이 메시지를 닫으면 vdu_controls 다시 시작됩니다."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "설정 값: {} 표시와 통신하지 못했습니다."
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "모니터가 꺼져 있습니까?<br>수면 배율 설정이 너무 낮습니까?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr "Display {vnum} {vdesc} feature {code} '({cdesc})'에는 정의되지 않은 값 '{value}'가 있습니다. 유효한 값은 {유효}입니다."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr "허용되는 값 집합을 확장하려면 설정 패널에서 {}에 대한 메타데이터를 편집할 수 있습니다.  자세한 내용은 VDU / VDU 모델 구성 파일에 관한 매뉴얼 페이지를 참조하십시오."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "모니터 {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr "허용되는 값 집합을 확장하려면 VDU / VDU 모델 구성 파일에 관한 매뉴얼 페이지를 참조하십시오."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "모니터 {}에는 {}에 대한 VCP 컨트롤이 없습니다."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "{} vcp_code에 대한 읽기/쓰기 기능이 없습니다."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} 오늘 나중에 {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} 오늘 일찍 {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} {}에 대해 일시 중단됨"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "오늘은 태양이 이렇게 높이 뜨지 않는다"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "제어판"
+
+#: @default%2327
+msgid "Presets"
+msgstr "프리셋"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "그레이 스케일"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "리프레쉬"
+
+#: @default%2330
+msgid "About"
+msgstr "약"
+
+#: @default%2331
+msgid "Help"
+msgstr "도움말"
+
+#: @default%2332
+msgid "Quit"
+msgstr "사임하다"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "모니터 {} {} {}에 대한 기능을 가져오지 못했습니다."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"이 모니터를 자동으로 구성할 수 없습니다.\n"
+" 다음을 선택할 수 있습니다.\n"
+" 1: 기능을 다시 가져옵니다.\n"
+" 2: 이 모니터를 무시합니다.\n"
+" 3: 표준 밝기 및 대비 컨트롤을 적용합니다."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "{} 모니터를 무시합니다."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "{} 구성 파일을 {}에 썼습니다."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "{}에 밝기 및 대비 컨트롤이 있다고 가정합니다."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "이러한 파일을 확인하고 추가 문제가 발생하는 경우 편집하거나 제거하십시오."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "모니터 {} {}에는 액세스할 수 있는 컨트롤이 없습니다."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "모니터는 제어판에서 생략됩니다."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"제어 가능한 모니터를 찾을 수 없습니다.\n"
+"사용 가능한 경우 새로 고침 단추를 사용합니다.\n"
+"ddcutil 및 i2c가 설치 및 구성되어 있는지 확인합니다."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "제어 가능한 모니터를 찾을 수 없습니다."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"디큐틸이 설치되어 있습니까?  i2c가 설치 및 구성되어 있습니까?\n"
+"\n"
+"콘솔에서 vdu_controls --debug 를 실행하고 추가 메시지를 확인합니다.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(가장 최근의 ddcutil 오류 : {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "이 사전 설정에 대한 옵션을 편집합니다."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "현재 VDU 설정에서 이 사전 설정을 업데이트합니다."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "메뉴 순서를 위로 이동합니다."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "메뉴 순서를 아래로 이동합니다."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "이 사전 설정을 삭제합니다."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "건너뛰려면 누르기: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "다시 활성화하려면 누릅니다. "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "사전 설정 아이콘을 선택합니다."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "아이콘 SVG 또는 PNG 파일"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG 또는 PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "태양 고도 트리거: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "오늘 {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "새벽"
+
+#: @default%2358
+msgid "dusk"
+msgstr "황혼"
+
+#: @default%2359
+msgid "twilight"
+msgstr "황혼"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "야간"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "정의되지 않은 위치(설정 참조)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "새 사전 설정 이름을 입력합니다."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "현재 VDU 설정을 새 사전 설정에 저장합니다."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "새로운 사전 설정:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "포함할 컨트롤:"
+
+#: @default%2368
+msgid "close"
+msgstr "닫다"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "{}에 대해 저장할 설정 선택"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "기존 {} 사전 설정을 현재 모니터 설정으로 업데이트하시겠습니까?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "{}를 삭제하시겠습니까?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "새 사전 설정 만들기:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "편집 {} :"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "{}에 포함할 컨트롤:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "기존 '{}' 사전 설정을 바꾸시겠습니까?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "오류: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "--수면 승수가 너무 낮게 설정되어 있습니까?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "세부 정보: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "그레이 스케일 레퍼런스"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"VDU 조정을 위한 그레이 스케일 참조.\n"
+"\n"
+"대비를 최대로 설정합니다(HDR 모니터의 경우\n"
+"70 %와 같이 낮은 것을 시도하고 밝기를 조정하십시오.\n"
+"가능한 한 많은 직사각형을 인식 할 수있을 때까지.\n"
+"\n"
+"콘텐츠 메뉴를 사용하여 추가 차트를 만들고\n"
+"각 디스플레이로 드래그하십시오.\n"
+"\n"
+"이 차트는 크기를 조정할 수 있습니다. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "vdu_controls에 관한 정보"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "시스템 트레이 사용 옵션을 변경하려면 vdu_controls 다시 시작해야 합니다."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"VDU 컨트롤\n"
+"DDC 모니터를 찾고 있습니다..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "{}에서 {} 번역을로드했습니다."
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "{}을(를) 다시 시작하지 못했습니다.  수동으로 다시 시작하십시오."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "{} 가 실행 가능하지 않거나 PATH에 없기 때문일 수 있습니다."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "동쪽 하늘"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "서쪽 하늘"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "{}에서 {} 번역 로드 중"
+
+#: @default%2390
+msgid "brightness"
+msgstr "밝기"
+
+#: @default%2391
+msgid "contrast"
+msgstr "대조"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "오디오 볼륨"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "오디오 음소거"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "오디오 고음"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "오디오 베이스"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "오디오 마이크 볼륨"
+
+#: @default%2397
+msgid "input source"
+msgstr "입력 소스"
+
+#: @default%2398
+msgid "power mode"
+msgstr "전원 모드"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "색온도"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "VCP 코드 사용"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "수면 배율기"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "기능 재정의"
+
+#: @default%23103
+msgid "location"
+msgstr "위치"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "VDU-컨트롤-전역"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "시스템 트레이 사용 가능"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "시작 화면 사용"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "경고 사용"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "디버그 사용"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "시스템 로그 사용"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-capabilities"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "오디오 스피커 볼륨"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD 언어"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "새 {}를 만드시겠습니까?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " ({} 날씨에 따라 달라질 수 있음)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "날씨 요구 사항 무시, 지역 날씨를 쿼리할 수 없음: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "알 수 없는 위치 {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "설정에서 위치를 확인하십시오."
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "{}에서 날씨를 가져오지 못했습니다."
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "추가 날씨 요구 사항"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "기상 조건은 {}에서 검색됩니다."
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "날씨 위치의 유효성을 검사하지 못했습니다: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "{}에서 최신 .ts 파일 {} 번역 사용"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "{}에서 {} 번역 사용"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "번역 사용"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr "사이트 {}는 사용자의 위치를 설정에 지정된 위도 및 경도에서 약 {} {}인 {}, {}, {}로 보고합니다."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "{}에 대한 날씨는 {}에서 검색됩니다."
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "번역 사용 옵션을 변경하려면 vdu_controls 다시 시작해야 합니다."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "vdu_controls 버전 {}에 오신 것을 환영합니다."
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "온라인 릴리스 노트를 읽어 보십시오."
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "설정에 지정된 위치를 확인하십시오."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "사전 설정 {} 활성화가 {}의 날씨로 인해 취소되었습니다."
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "예상치 못한"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "성공"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "건너뛰기, 대체됨"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "날씨 취소"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "예약"
+
+#: @default%23139
+msgid "suspended"
+msgstr "일시 중단"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"프리셋 복원\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "사전 설정 확인"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "저장됨 {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "삭제됨 {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "복원됨 {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "프리셋 {} {}에서 활성화"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "{} 복원(즉시)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "천천히 전환"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "전환 단계"
+
+#: @default%23149
+msgid "seconds"
+msgstr "초"
+
+#: @default%23150
+msgid "No"
+msgstr "아니요"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "일정에 따라"
+
+#: @default%23152
+msgid "Always"
+msgstr "늘"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "사전 설정 {}으로 전환"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "사전 설정 {}(경과 시간 {}초)로 전환하는 중..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "복원됨 {}(경과 시간 {}초)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "{}의 복원이 중단되었습니다."

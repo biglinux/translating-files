@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Nastavení"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Nic není třeba šetřit. Chcete přesto ušetřit?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Žádné neuložené změny pro {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Uložit {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Uložit vše"
+
+#: @default%236
+msgid "Close"
+msgstr "Zavřít"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Aktualizovat existující {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Zeměpisná šířka, zeměpisná délka pro výpočty výšky slunečního záření."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Dotaz {} pro získání informací na základě vaší IP adresy?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Nepodařilo se získat informace z {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Detekovat"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Zjistěte umístění dotazem na externí IP adresu tohoto počítače."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Po zavření této zprávy se vdu_controls restartuje."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Nastavit hodnotu: Nepodařilo se komunikovat s displejem {}"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Je monitor vypnutý?<br>Je nastavení násobitele spánku příliš nízké?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' má nedefinovanou hodnotu '{value}'. Platné "
+"hodnoty jsou {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Pokud chcete rozšířit sadu povolených hodnot, můžete upravit metadata pro {} v panelu nastavení.  "
+"Více informací naleznete v manuálové stránce týkající se konfiguračních souborů VDU/VDU-modelu."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Monitor {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Pokud chcete rozšířit sadu povolených hodnot, podívejte se na manuálovou stránku týkající se "
+"konfiguračních souborů VDU/VDU-modelu."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Monitor {} postrádá ovládací prvek VCP pro {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Žádná schopnost čtení a zápisu pro vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} později dnes v {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} dnes v {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} pozastaveno pro {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "Slunce dnes nevychází tak vysoko"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Ovládací panel"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Přednastavuje"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Stupně šedi"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Osvěžit"
+
+#: @default%2330
+msgid "About"
+msgstr "Asi"
+
+#: @default%2331
+msgid "Help"
+msgstr "Pomoc"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Přestat"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Nepodařilo se získat funkce pro monitorování {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Tento monitor nelze automaticky konfigurovat.\n"
+" Můžete si vybrat:\n"
+" 1: Zkuste znovu získat možnosti.\n"
+" 2: Ignorovat tento monitor.\n"
+" 3: Použijte standardní ovládací prvky jasu a kontrastu."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Ignorování {} monitoru."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Napsal {} konfigurační soubory do {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Předpokládejme, že {} má ovládací prvky jasu a kontrastu."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "Zkontrolujte tyto soubory a upravte je nebo odstraňte, pokud způsobují další problémy."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Monitor {} {} postrádá všechny přístupné ovládací prvky."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "Monitor bude z ovládacího panelu vynechán."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Nebyly nalezeny žádné kontrolovatelné monitory.\n"
+"Použijte tlačítko obnovení, pokud je k dispozici.\n"
+"Zkontrolujte, zda jsou nainstalovány a nakonfigurovány ddcutil a i2c."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Nebyly nalezeny žádné kontrolovatelné monitory."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Je nainstalován ddcutil?  Je i2c nainstalován a nakonfigurován?\n"
+"\n"
+"Spusťte vdu_controls --debug v konzole a zkontrolujte další zprávy.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Poslední chyba ddcutil: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Upravte volby pro toto přednastavení."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Aktualizujte toto přednastavení z aktuálního nastavení VDU."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Přesunutí pořadí nabídek nahoru"
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Přesuňte pořadí nabídek dolů."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Odstraňte toto přednastavení."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Přeskočit stisknutím tlačítka: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Stisknutím tlačítka znovu povolíte: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Vyberte přednastavenou ikonu."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Soubor SVG nebo PNG ikony"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG nebo PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Spoušť sluneční elevace: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "dnes v {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "úsvit"
+
+#: @default%2358
+msgid "dusk"
+msgstr "soumrak"
+
+#: @default%2359
+msgid "twilight"
+msgstr "soumrak"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "noc"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "Poloha nedefinovaná (viz Nastavení)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Zadejte nový přednastavený název."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Uložte aktuální nastavení VDU do nové předvolby."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Nová předvolba:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Ovládací prvky, které mají zahrnovat:"
+
+#: @default%2368
+msgid "close"
+msgstr "zavřít"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Zvolte, která nastavení chcete uložit pro {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Aktualizovat existující {} předvolbu s aktuálním nastavením monitoru?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Smazat {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Vytvořit nové přednastavení:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Upravit {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Ovládací prvky, které mají být zahrnuty do {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Nahradit stávající předvolbu '{}'?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Chyba: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Je --sleep-multiplikátor nastaven příliš nízko?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Podrobnosti: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Reference ve stupních šedé"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Reference stupnice šedé pro nastavení VDU.\n"
+"\n"
+"Nastavení kontrastu směrem k maximu (pro monitory HDR\n"
+"zkuste něco nižšího, například 70%) a upravte jas\n"
+"dokud nebude možné vnímat co nejvíce obdélníků.\n"
+"\n"
+"Pomocí nabídky obsahu můžete vytvořit další grafy a\n"
+"Přetáhněte je na jednotlivé monitory.\n"
+"\n"
+"Velikost tohoto grafu lze změnit. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "O ubytování vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Změna možnosti povoleného na hlavním panelu systému vyžaduje restartování vdu_controls."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"Ovládací prvky VDU\n"
+"Hledáte DDC monitory..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Načtené {} překlady z {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Restartování {} se nezdařilo.  Restartujte počítač ručně."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "Je to pravděpodobně proto, že {} není spustitelný nebo není na vaší cestě."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "Východní obloha"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "Západní obloha"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Načítání {} překladů z {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "jas"
+
+#: @default%2391
+msgid "contrast"
+msgstr "kontrast"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "Hlasitost zvuku"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "Ztlumení zvuku"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "Zvukové výšky"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "Zvukové basy"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "Hlasitost zvukového mikrofonu"
+
+#: @default%2397
+msgid "input source"
+msgstr "Vstupní zdroj"
+
+#: @default%2398
+msgid "power mode"
+msgstr "Režim napájení"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "teplota chromatičnosti"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-codes"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "násobič spánku"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "capabilities-override"
+
+#: @default%23103
+msgid "location"
+msgstr "umístění"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "S podporou systémové lišty"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "Úvodní obrazovka s povolenou obrazovkou"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "Povolená upozornění"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "Povoleno ladění"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "Povoleno syslogem"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-capabilities"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "Hlasitost zvukového reproduktoru"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "Jazyk OSD"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Vytvořit nové {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (v závislosti na {} počasí)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Ignorování požadavků na počasí, nelze se dotazovat na místní počasí: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Neznámé umístění {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Zkontrolujte prosím umístění v Nastavení"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Nepodařilo se získat počasí z {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Další požadavky na počasí"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Povětrnostní podmínky budou získány z {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Nepodařilo se ověřit polohu počasí: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Použití novějších překladů .ts souboru {} z {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Použití {} překladů z {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "s povolenými překlady"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"Web {} hlásí vaši polohu jako {}, {}, {},{}, což je přibližně {} {} od zeměpisné šířky a délky "
+"zadané v Nastavení."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Počasí pro {} bude získáno z {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Změna možnosti povolených překladů vyžaduje restartování vdu_controls."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Vítejte ve vdu_controls verzi {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Přečtěte si prosím poznámky k online verzi:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Zkontrolujte umístění uvedené v Nastavení."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Přednastavená aktivace {} byla zrušena kvůli počasí na {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "nerozvržený"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "uspěl"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "přeskočeno, nahrazeno"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "Zrušení počasí"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "naplánovaný"
+
+#: @default%23139
+msgid "suspended"
+msgstr "pozastavený"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Obnovení přednastavení\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Kontrola přednastavení"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Uloženo {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Odstraněno {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Obnoveno {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Přednastavení {} aktivace v {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Obnovit {} (okamžitě)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Přechod pomalu"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Krok přechodu"
+
+#: @default%23149
+msgid "seconds"
+msgstr "sekundy"
+
+#: @default%23150
+msgid "No"
+msgstr "Ne"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "V termínu"
+
+#: @default%23152
+msgid "Always"
+msgstr "Vždy"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Přechod na předvolbu {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Přechod na přednastavený {} (uplynulý čas {} sekund)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Obnoveno {} (uplynulý čas {} sekund)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Přerušené obnovení {}"

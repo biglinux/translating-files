@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Setări"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Nimic nu are nevoie de economisire. Vrei să economisești oricum?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Fără modificări nesalvate pentru {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Salvare {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Salvați toate"
+
+#: @default%236
+msgid "Close"
+msgstr "Închide"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Actualizați {}existent?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Latitudine,Longitudine pentru calculele de elevație solară."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Interogare {} pentru a obține informații pe baza adresei IP?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Nu a reușit să obțină informații de la {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Detecta"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Detectați locația interogând adresa IP externă a acestui desktop."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Când acest mesaj este respins, vdu_controls va reporni."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Setarea valorii: Nu a reușit să comunice cu afișarea {}"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Monitorul este oprit?<br>Setarea multiplicatorului de somn este prea mică?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' are o valoare nedefinită '{value}'. Valorile "
+"valide sunt {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Dacă doriți să extindeți setul de valori permise, puteți edita metadatele pentru {} în panoul de "
+"setări.  Pentru mai multe detalii, a se vedea pagina de om cu privire la VDU /VDU-model de fișiere "
+"de configurare."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Monitor {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Dacă doriți să extindeți setul de valori permise, consultați pagina om referitoare la fișierele de "
+"configurare VDU/VDU-model ."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Monitor {} nu are un control VCP pentru {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Nici o capacitate de citire/scriere pentru vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} mai târziu astăzi la {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} mai devreme astăzi la {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} suspendat pentru {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "soarele nu răsare atât de sus astăzi"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Panou de control"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Presetări"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Scală gri"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Împrospăta"
+
+#: @default%2330
+msgid "About"
+msgstr "Despre"
+
+#: @default%2331
+msgid "Help"
+msgstr "Ajutor"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Pleca"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Nu a reușit să obțină capacități pentru monitor {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Nu se poate configura automat acest monitor.\n"
+" Puteți alege să:\n"
+" 1: Reîncercați obținerea capacităților.\n"
+" 2: Ignorați acest monitor.\n"
+" 3: Aplicați controale standard de luminozitate și contrast."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Ignorând {} monitor."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Wrote {} config files to {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Presupunând că {} are controale de luminozitate și contrast."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr ""
+"Vă rugăm să verificați aceste fișiere și să le editați sau să le eliminați dacă provoacă probleme "
+"suplimentare."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Monitor {} {} nu are controale accesibile."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "Monitorul va fi omis din panoul de control."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Nu s-au găsit monitoare controlabile.\n"
+"Utilizați butonul de reîmprospătare, dacă există, devine disponibil.\n"
+"Verificați dacă ddcutil și i2c sunt instalate și configurate."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Nu s-au găsit monitoare controlabile."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Este instalat ddcutil?  I2c este instalat și configurat?\n"
+"\n"
+"Rulați vdu_controls --depanare într-o consolă și căutați mesaje suplimentare.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Cea mai recentă eroare ddcutil: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Editați opțiunile pentru această presetare."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Actualizați această presetare din setările VDU curente."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Deplasați-vă în sus în ordinea meniului."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Deplasați-vă în jos în ordinea meniului."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Ștergeți această presetare."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Apăsați pentru a sări peste: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Apăsați pentru a reactiva: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Selectați o pictogramă presetată."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Pictogramă fișier SVG sau PNG"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG sau PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Declanșatorul de elevație solară: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "astăzi la {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "auroră"
+
+#: @default%2358
+msgid "dusk"
+msgstr "amurg"
+
+#: @default%2359
+msgid "twilight"
+msgstr "crepuscul"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "noapte"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "locație nedefinită (a se vedea setările)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Introduceți un nume presetat nou."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Salvați setările VDU curente într-o presetare nouă."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Presetare noi:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Controale pentru a include:"
+
+#: @default%2368
+msgid "close"
+msgstr "închide"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Alegeți ce setări să salvați pentru {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Actualizați presetarea {} existentă cu setările curente ale monitorului?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Ștergeți {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Creați o nouă presetare:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Editare {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Controale de inclus în {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Înlocuiți presetarea '{}' existentă?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Eroare: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Este --somn-multiplicator stabilit prea mic?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Detalii: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Referința scalei gri"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Referință scală gri pentru ajustarea VDU.\n"
+"\n"
+"Setați contrastul spre maxim (pentru monitoarele HDR\n"
+"încercați ceva mai mic, cum ar fi 70%) și reglați luminozitatea\n"
+"până când pot fi percepute cât mai multe dreptunghiuri.\n"
+"\n"
+"Utilizați meniul de conținut pentru a crea diagrame suplimentare și\n"
+"trageți-le pe fiecare afișaj.\n"
+"\n"
+"Această diagramă este redimensionabilă. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "Despre vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Modificarea opțiunii activate pentru bara de sistem necesită vdu_controls pentru repornire."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"Controale VDU\n"
+"Cauti monitoare DDC..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Loaded {} traduceri din {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Repornirea {} nu a reușit.  Reporniți manual."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "Acest lucru se datorează probabil faptului că {} nu este executabil sau nu este pe calea ta."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "cerul de est"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "cerul vestic"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Încărcarea traducerilor {} din {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "Luminozitate"
+
+#: @default%2391
+msgid "contrast"
+msgstr "contrast"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "volum audio"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "sunet fără sunet"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "sunet triplu"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "bas audio"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "volumul microfonului audio"
+
+#: @default%2397
+msgid "input source"
+msgstr "sursă de intrare"
+
+#: @default%2398
+msgid "power mode"
+msgstr "modul de alimentare"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "temperatura culorii"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-codes"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "multiplicator de somn"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "capacități-suprascrie"
+
+#: @default%23103
+msgid "location"
+msgstr "loc"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controale-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "sistem-tray-enabled"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "splash-screen activat"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "avertismente activate"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "depanare activat"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "syslog-activat"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controale-widget-uri"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parametri"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-capabilități"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "volumul difuzorului audio"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "Limba OSD"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Creați o nouă {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (sub rezerva {} vreme)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Ignorând cerințele meteorologice, nu se poate interoga vremea locală: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Locație necunoscută {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Vă rugăm să verificați Locația în Setări"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Nu a reușit să obțină vremea de la {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Cerințe meteorologice suplimentare"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Condițiile meteorologice vor fi recuperate din {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Nu a reușit să valideze locația meteo: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Utilizarea mai noi .ts fișier {} traduceri de la {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Utilizarea traducerilor {} din {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "traduceri activate"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"Site-ul {} vă raportează locația ca {}, {}, {},{} care este despre {} {} din latitudinea și "
+"longitudinea specificate în Setări."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Vremea pentru {} va fi preluată din {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Modificarea opțiunii activate pentru traduceri necesită vdu_controls pentru repornire."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Bine ati venit la versiunea vdu_controls {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Vă rugăm să citiți notele de lansare on-line:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Vă rugăm să verificați locația specificată în Setări."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Activarea presetată {} a fost anulată din cauza vremii la {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "Neprogramate"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "Reuşit"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "omis, înlocuit"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "anularea vremii"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "Programată"
+
+#: @default%23139
+msgid "suspended"
+msgstr "suspendat"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Restaurarea presetărilor\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Verificarea presetărilor"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Salvat {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Deleted {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Restaurat {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Preset {} activarea la {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Restaurare {} (imediat)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Tranziție lentă"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Pas de tranziție"
+
+#: @default%23149
+msgid "seconds"
+msgstr "Secunde"
+
+#: @default%23150
+msgid "No"
+msgstr "Nu"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "În grafic"
+
+#: @default%23152
+msgid "Always"
+msgstr "Întotdeauna"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Trecerea la presetare {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Trecerea la presetarea {} (timpul scurs {} secunde)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Restaurat {} (timp scurs {} secunde)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Restaurare întreruptă a {}"

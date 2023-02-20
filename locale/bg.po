@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Настройки"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Нищо не се нуждае от спестяване. Искате ли да спестите все пак?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Няма незаписани промени за {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Запиши {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Запиши всички"
+
+#: @default%236
+msgid "Close"
+msgstr "Затварям"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Актуализиране на съществуващ {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Географска ширина, дължина за изчисления на слънчевата височина."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Заявка {} за получаване на информация въз основа на вашия IP адрес?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Неуспешно получаване на информация от {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Откривам"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Откриване на местоположение чрез запитване към външния IP адрес на този работен плот."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Когато това съобщение бъде отхвърлено, vdu_controls ще се рестартира."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Задаване на стойност: Неуспешна комуникация с дисплей {}"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Изключен ли е мониторът?<br>Твърде ниска ли е настройката за умножаване на съня?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Функцията {vnum} {vdesc} {code} '({cdesc})' има недефинирана стойност '{value}'. Валидните "
+"стойности са {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Ако искате да разширите набора от разрешени стойности, можете да редактирате метаданните за {} в "
+"панела с настройки.  За повече подробности вижте страницата на човека относно VDU / VDU-модел "
+"конфигурационни файлове."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Монитор {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Ако искате да разширите набора от разрешени стойности, вижте страницата man относно VDU/VDU-модел "
+"конфигурационни файлове ."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "На монитора {} липсва VCP контрола за {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Няма възможност за четене/запис за vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} по-късно днес в {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} по-рано днес в {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} спряно за {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "Слънцето не изгрява толкова високо днес."
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Контролен панел"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Настройки"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Скала на сивото"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Опреснявам"
+
+#: @default%2330
+msgid "About"
+msgstr "За"
+
+#: @default%2331
+msgid "Help"
+msgstr "Помощ"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Оставям"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Неуспешно получаване на възможности за монитор {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Този монитор не може да бъде конфигуриран автоматично.\n"
+" Можете да изберете да:\n"
+" 1: Опитайте отново да получите възможностите.\n"
+" 2: Игнорирайте този монитор.\n"
+" 3: Приложете стандартни контроли за яркост и контраст."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "Игнориране на {} монитор."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "Записа {} конфигурационни файлове в {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Ако приемем, че {} има контроли за яркост и контраст."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "Проверете тези файлове и ги редактирайте или премахнете, ако причиняват допълнителни проблеми."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "На монитора {} {} липсват достъпни контроли."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "Мониторът ще бъде пропуснат от контролния панел."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Не са намерени контролируеми монитори.\n"
+"Използвайте бутона за обновяване, ако има такъв.\n"
+"Проверете дали ddcutil и i2c са инсталирани и конфигурирани."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Не са намерени контролируеми монитори."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Инсталиран ли е ddcutil?  Инсталиран и конфигуриран ли е i2c?\n"
+"\n"
+"Стартирайте vdu_controls --отстраняване на грешки в конзола и проверете за допълнителни съобщения.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Най-скорошна грешка ddcutil: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Редактирайте опциите за тази предварителна настройка."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Актуализирайте тази предварителна настройка от текущите настройки на VDU."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "Преместете нагоре реда на менюто."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Преместване надолу по реда на менюто."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Изтрийте тази предварителна настройка."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Натиснете, за да пропуснете: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Натиснете, за да разрешите отново: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Изберете предварително зададена икона."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Икона SVG или PNG файл"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG или PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Спусък за слънчево издигане: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "Днес в {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "разсъмване"
+
+#: @default%2358
+msgid "dusk"
+msgstr "здрач"
+
+#: @default%2359
+msgid "twilight"
+msgstr "здрач"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "Вечерни"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "Местоположението е неопределено (вж. настройките)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Въведете ново предварително зададено име."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Запазване на текущите настройки на VDU в нова предварителна настройка."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Нова предварителна настройка:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Контролите да включват:"
+
+#: @default%2368
+msgid "close"
+msgstr "затварям"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Изберете за кои настройки да запишете {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Да се актуализира ли съществуващата предварителна настройка {} с текущите настройки на монитора?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "Да се изтрие ли {}?"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Създаване на нова предварителна настройка:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "Редактиране {}:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Контроли за включване в {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Заместване на съществуващата предварителна настройка \"{}\"?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Грешка: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Дали --sleep-multiplier настроен е твърде нисък?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Детайли: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Референция за сивата скала"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Референтна скала на сивото за регулиране на VDU.\n"
+"\n"
+"Задаване на контраст към максимума (за HDR монитори\n"
+"опитайте нещо по-ниско, като например 70%) и регулирайте яркостта\n"
+"докато могат да се възприемат възможно най-много правоъгълници.\n"
+"\n"
+"Използвайте съдържанието-меню, за да създадете допълнителни диаграми и\n"
+"Плъзнете ги на всеки дисплей.\n"
+"\n"
+"Тази диаграма може да се преоразмерява. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "Относно vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Промяната в опцията за активиране на системната област изисква vdu_controls рестартиране."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"VDU контроли\n"
+"Търсите DDC монитори..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Заредени {} преводи от {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Рестартирането на {} е неуспешно.  Рестартирайте ръчно."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "Това вероятно е така, защото {} не е изпълним или не е на вашия ПЪТ."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "Източно небе"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "западно небе"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "Зареждане на {} преводи от {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "яркост"
+
+#: @default%2391
+msgid "contrast"
+msgstr "контраст"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "аудио сила на звука"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "аудио заглушаване"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "аудио требъл"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "аудио бас"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "Сила на звука на аудио микрофона"
+
+#: @default%2397
+msgid "input source"
+msgstr "входен източник"
+
+#: @default%2398
+msgid "power mode"
+msgstr "Режим на захранване"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "Цветна температура"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "Активиране-VCP-кодове"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "Умножител на съня"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "възможности-заместване"
+
+#: @default%23103
+msgid "location"
+msgstr "място"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "VDU-Controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "Активирана системна област"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "Активиран екран за пръскане"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "Предупрежденията са разрешени"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "Отстраняване на грешки"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "Syslog-активиран"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-джаджи"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-параметри"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-възможности"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "Сила на звука на звуковия високоговорител"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD език"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Създаване на нов {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (в зависимост от {} времето)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Игнориране на метеорологичните изисквания, не може да се направи заявка за локално време: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Неизвестно местоположение {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Моля, проверете местоположението в настройките"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Неуспешно получаване на времето от {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Допълнителни изисквания за времето"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "Метеорологичните условия ще бъдат извлечени от {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Неуспешно валидиране на местоположението на времето: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Използване на по-нови .ts файлове {} преводи от {}"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "Използване на {} преводи от {}"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "Преводи с възможност за превод"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"Сайтът {} отчита вашето местоположение като {}, {}, {},{}, което е около {} {} от географската "
+"ширина и дължина, зададени в Настройки."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Времето за {} ще бъде извлечено от {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Промяната в опцията с възможност за превод изисква vdu_controls рестартиране."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Добре дошли в vdu_controls версия {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Моля, прочетете бележките по онлайн изданието:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Моля, проверете местоположението, посочено в Настройки."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Активирането на предварително зададения {} е отменено поради времето в {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "Непредвидено"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "Успя"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "пропуснат, заменен"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "отмяна на времето"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "Планирано"
+
+#: @default%23139
+msgid "suspended"
+msgstr "Спряно"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Възстановяване на предварителна настройка\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Проверка на предварителните настройки"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Записан {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Изтрит {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Възстановен {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Предварително задаване на {} активиране в {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "Възстановяване на {} (незабавно)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Преходът бавно"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Стъпка на преход"
+
+#: @default%23149
+msgid "seconds"
+msgstr "Секунди"
+
+#: @default%23150
+msgid "No"
+msgstr "Не"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "По график"
+
+#: @default%23152
+msgid "Always"
+msgstr "Винаги"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Преминаване към предварително зададени {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Преминаване към предварително зададени {} (изминало време {} секунди)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Възстановен {} (изминало време {} секунди)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Прекъснато възстановяване на {}"

@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"X-Generator: attranslate\n"
+"Content-Type: text/plain\n"
+
+#: @default%231
+msgid "Settings"
+msgstr "Instellingen"
+
+#: @default%232
+msgid "Nothing needs saving. Do you wish to save anyway?"
+msgstr "Niets hoeft te worden opgeslagen. Wil je toch sparen?"
+
+#: @default%233
+msgid "No unsaved changes for {}."
+msgstr "Geen niet-opgeslagen wijzigingen voor {}."
+
+#: @default%234
+msgid "Save {}"
+msgstr "Opslaan {}"
+
+#: @default%235
+msgid "Save All"
+msgstr "Alles opslaan"
+
+#: @default%236
+msgid "Close"
+msgstr "Sluiten"
+
+#: @default%237
+msgid "Update existing {}?"
+msgstr "Bestaande {}?"
+
+#: @default%238
+msgid "Latitude,Longitude for solar elevation calculations."
+msgstr "Breedtegraad, lengtegraad voor zonnehoogteberekeningen."
+
+#: @default%239
+msgid "Query {} to obtain information based on your IP-address?"
+msgstr "Query {} om informatie te verkrijgen op basis van uw IP-adres?"
+
+#: @default%2310
+msgid "Failed to obtain info from {}: {}"
+msgstr "Kan geen informatie verkrijgen van {}: {}"
+
+#: @default%2311
+msgid "Detect"
+msgstr "Detecteren"
+
+#: @default%2312
+msgid "Detect location by querying this desktop's external IP address."
+msgstr "Detecteer de locatie door het externe IP-adres van dit bureaublad op te vragen."
+
+#: @default%2313
+msgid "When this message is dismissed, vdu_controls will restart."
+msgstr "Wanneer dit bericht wordt genegeerd, wordt vdu_controls opnieuw opgestart."
+
+#: @default%2314
+msgid "Set value: Failed to communicate with display {}"
+msgstr "Waarde instellen: Kan niet communiceren met weergave {}"
+
+#: @default%2315
+msgid "Is the monitor switched off?<br>Is the sleep-multiplier setting too low?"
+msgstr "Is de monitor uitgeschakeld?<br>Is de instelling van de slaapvermenigvuldiging te laag?"
+
+#: @default%2316
+msgid ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' has an undefined value '{value}'. Valid values "
+"are {valid}."
+msgstr ""
+"Display {vnum} {vdesc} feature {code} '({cdesc})' heeft een ongedefinieerde waarde '{value}'. "
+"Geldige waarden zijn {valid}."
+
+#: @default%2317
+msgid ""
+"If you want to extend the set of permitted values, you can edit the metadata for {} in the settings "
+"panel.  For more details see the man page concerning VDU/VDU-model config files."
+msgstr ""
+"Als u de set toegestane waarden wilt uitbreiden, kunt u de metagegevens voor {} bewerken in het "
+"deelvenster Instellingen.  Zie voor meer details de man pagina over VDU/VDU-model "
+"configuratiebestanden."
+
+#: @default%2318
+msgid "Monitor {}: {}"
+msgstr "Monitor {}: {}"
+
+#: @default%2319
+msgid ""
+"If you want to extend the set of permitted values, see the man page concerning VDU/VDU-model config "
+"files ."
+msgstr ""
+"Als u de set toegestane waarden wilt uitbreiden, zie de man-pagina met betrekking tot "
+"VDU/VDU-modelconfiguratiebestanden ."
+
+#: @default%2320
+msgid "Monitor {} lacks a VCP control for {}."
+msgstr "Monitor {} mist een VCP-besturingselement voor {}."
+
+#: @default%2321
+msgid "No read/write ability for vcp_code {}."
+msgstr "Geen lees-/schrijfvermogen voor vcp_code {}."
+
+#: @default%2322
+msgid "{} later today at {}"
+msgstr "{} later vandaag op {}"
+
+#: @default%2323
+msgid "{} earlier today at {}"
+msgstr "{} eerder vandaag op {}"
+
+#: @default%2324
+msgid "{} suspended for  {}"
+msgstr "{} opgeschort voor {}"
+
+#: @default%2325
+msgid "the sun does not rise this high today"
+msgstr "de zon komt vandaag niet zo hoog op"
+
+#: @default%2326
+msgid "Control Panel"
+msgstr "Bedieningspaneel"
+
+#: @default%2327
+msgid "Presets"
+msgstr "Voorinstellingen"
+
+#: @default%2328
+msgid "Grey Scale"
+msgstr "Grijsschaal"
+
+#: @default%2329
+msgid "Refresh"
+msgstr "Opfrissen"
+
+#: @default%2330
+msgid "About"
+msgstr "Over"
+
+#: @default%2331
+msgid "Help"
+msgstr "Help"
+
+#: @default%2332
+msgid "Quit"
+msgstr "Verlaten"
+
+#: @default%2333
+msgid "Failed to obtain capabilities for monitor {} {} {}."
+msgstr "Kan geen mogelijkheden verkrijgen voor monitor {} {} {}."
+
+#: @default%2334
+msgid ""
+"Cannot automatically configure this monitor.\n"
+" You can choose to:\n"
+" 1: Retry obtaining the capabilities.\n"
+" 2: Ignore this monitor.\n"
+" 3: Apply standard brightness and contrast controls."
+msgstr ""
+"Kan deze monitor niet automatisch configureren.\n"
+" U kunt ervoor kiezen om:\n"
+" 1: Probeer opnieuw de mogelijkheden te verkrijgen.\n"
+" 2: Negeer deze monitor.\n"
+" 3: Pas standaard helderheids- en contrastregelaars toe."
+
+#: @default%2335
+msgid "Ignoring {} monitor."
+msgstr "{} monitor negeren."
+
+#: @default%2336
+msgid "Wrote {} config files to {}."
+msgstr "{} configuratiebestanden geschreven naar {}."
+
+#: @default%2337
+msgid "Assuming {} has brightness and contrast controls."
+msgstr "Ervan uitgaande dat {} helderheids- en contrastregelaars heeft."
+
+#: @default%2338
+msgid ""
+"\n"
+"Please check these files and edit or remove them if they cause further issues."
+msgstr "Controleer deze bestanden en bewerk of verwijder ze als ze verdere problemen veroorzaken."
+
+#: @default%2339
+msgid "Monitor {} {} lacks any accessible controls."
+msgstr "Monitor {} {} mist toegankelijke besturingselementen."
+
+#: @default%2340
+msgid "The monitor will be omitted from the control panel."
+msgstr "De monitor wordt weggelaten uit het bedieningspaneel."
+
+#: @default%2341
+msgid ""
+"No controllable monitors found.\n"
+"Use the refresh button if any become available.\n"
+"Check that ddcutil and i2c are installed and configured."
+msgstr ""
+"Geen controleerbare monitoren gevonden.\n"
+"Gebruik de knop Vernieuwen als deze beschikbaar komt.\n"
+"Controleer of ddcutil en i2c zijn geïnstalleerd en geconfigureerd."
+
+#: @default%2342
+msgid "No controllable monitors found."
+msgstr "Geen controleerbare monitoren gevonden."
+
+#: @default%2343
+msgid ""
+"Is ddcutil installed?  Is i2c installed and configured?\n"
+"\n"
+"Run vdu_controls --debug in a console and check for additional messages.\n"
+"\n"
+"{}"
+msgstr ""
+"Is ddcutil geïnstalleerd?  Is i2c geïnstalleerd en geconfigureerd?\n"
+"\n"
+"Voer vdu_controls --foutopsporing uit in een console en controleer op aanvullende berichten.\n"
+"\n"
+"{}"
+
+#: @default%2344
+msgid "(Most recent ddcutil error: {})"
+msgstr "(Meest recente ddcutil-fout: {})"
+
+#: @default%2345
+msgid "Edit the options for this preset."
+msgstr "Bewerk de opties voor deze voorinstelling."
+
+#: @default%2346
+msgid "Update this preset from the current VDU settings."
+msgstr "Werk deze voorinstelling bij op basis van de huidige beeldscherminstellingen."
+
+#: @default%2347
+msgid "Move up the menu order."
+msgstr "De menuvolgorde omhoog gaan."
+
+#: @default%2348
+msgid "Move down the menu order."
+msgstr "Ga omlaag in de menuvolgorde."
+
+#: @default%2349
+msgid "Delete this preset."
+msgstr "Verwijder deze voorinstelling."
+
+#: @default%2350
+msgid "Press to skip: "
+msgstr "Druk om over te slaan: "
+
+#: @default%2351
+msgid "Press to re-enable: "
+msgstr "Druk hierop om het volgende opnieuw in te schakelen: "
+
+#: @default%2352
+msgid "Choose a preset icon."
+msgstr "Kies een vooraf ingesteld pictogram."
+
+#: @default%2353
+msgid "Icon SVG or PNG file"
+msgstr "Pictogram SVG- of PNG-bestand"
+
+#: @default%2354
+msgid "SVG or PNG (*.svg *.png)"
+msgstr "SVG of PNG (*.svg *.png)"
+
+#: @default%2355
+msgid "Solar elevation trigger: "
+msgstr "Zonne-verhoging trigger: "
+
+#: @default%2356
+msgid "today at {}"
+msgstr "vandaag op {}"
+
+#: @default%2357
+msgid "dawn"
+msgstr "dageraad"
+
+#: @default%2358
+msgid "dusk"
+msgstr "schemering"
+
+#: @default%2359
+msgid "twilight"
+msgstr "schemering"
+
+#: @default%2360
+msgid "nighttime"
+msgstr "Nachtelijke"
+
+#: @default%2361
+msgid "location undefined (see settings)"
+msgstr "locatie ongedefinieerd (zie instellingen)"
+
+#: @default%2362
+msgid "E"
+msgstr "E"
+
+#: @default%2363
+msgid "W"
+msgstr "W"
+
+#: @default%2364
+msgid "Enter a new preset name."
+msgstr "Voer een nieuwe naam voorinstellingen in."
+
+#: @default%2365
+msgid "Save current VDU settings to a new preset."
+msgstr "Sla de huidige beeldscherminstellingen op in een nieuwe voorinstelling."
+
+#: @default%2366
+msgid "New Preset:"
+msgstr "Nieuwe preset:"
+
+#: @default%2367
+msgid "Controls to include:"
+msgstr "Besturingselementen om op te nemen:"
+
+#: @default%2368
+msgid "close"
+msgstr "sluiten"
+
+#: @default%2369
+msgid "Choose which settings to save for {}"
+msgstr "Kies welke instellingen u wilt opslaan voor {}"
+
+#: @default%2370
+msgid "Update existing {} preset with current monitor settings?"
+msgstr "Bestaande {}-voorinstelling bijwerken met de huidige monitorinstellingen?"
+
+#: @default%2371
+msgid "Delete {}?"
+msgstr "{}? verwijderen"
+
+#: @default%2372
+msgid "Create new preset:"
+msgstr "Nieuwe voorinstelling maken:"
+
+#: @default%2373
+msgid "Edit {}:"
+msgstr "{} bewerken:"
+
+#: @default%2374
+msgid "Controls to include in {}:"
+msgstr "Besturingselementen die u wilt opnemen in {}:"
+
+#: @default%2375
+msgid "Replace existing '{}' preset?"
+msgstr "Bestaande '{}'-voorinstelling vervangen?"
+
+#: @default%2376
+msgid "Error: {}"
+msgstr "Fout: {}"
+
+#: @default%2377
+msgid "Is --sleep-multiplier set too low?"
+msgstr "Is de --slaap-multiplier te laag ingesteld?"
+
+#: @default%2378
+msgid "Details: {}"
+msgstr "Gegevens: {}"
+
+#: @default%2379
+msgid "Grey Scale Reference"
+msgstr "Grijsschaal Referentie"
+
+#: @default%2380
+msgid ""
+"Grey Scale Reference for VDU adjustment.\n"
+"\n"
+"Set contrast toward the maximum (for HDR monitors\n"
+"try something lower such as 70%) and adjust brightness\n"
+"until as many rectangles as possible can be perceived.\n"
+"\n"
+"Use the content-menu to create additional charts and\n"
+"drag them onto each display.\n"
+"\n"
+"This chart is resizable. "
+msgstr ""
+"Grijsschaalreferentie voor beeldschermaanpassing.\n"
+"\n"
+"Stel het contrast in de richting van het maximum (voor HDR-monitoren\n"
+"probeer iets lagers zoals 70%) en pas de helderheid aan\n"
+"totdat er zoveel mogelijk rechthoeken kunnen worden waargenomen.\n"
+"\n"
+"Gebruik het inhoudsmenu om extra grafieken te maken en\n"
+"sleep ze naar elk scherm.\n"
+"\n"
+"Deze grafiek kan worden aangepast. "
+
+#: @default%2381
+msgid "About vdu_controls"
+msgstr "Over vdu_controls"
+
+#: @default%2382
+msgid "The change to the system-tray-enabled option requires vdu_controls to restart."
+msgstr "Voor de wijziging van de optie in het systeemvak moet vdu_controls opnieuw worden opgestart."
+
+#: @default%2383
+msgid ""
+"\n"
+"\n"
+"VDU Controls\n"
+"Looking for DDC monitors...\n"
+msgstr ""
+"Beeldschermbesturing\n"
+"Op zoek naar DDC monitoren..."
+
+#: @default%2384
+msgid "Loaded {} translations from {}"
+msgstr "Geladen {} vertalingen van {}"
+
+#: @default%2385
+msgid "Restart of {} failed.  Please restart manually."
+msgstr "Het opnieuw opstarten van {} is mislukt.  Start handmatig opnieuw op."
+
+#: @default%2386
+msgid "This is probably because {} is not executable or is not on your PATH."
+msgstr "Dit komt waarschijnlijk omdat {} niet uitvoerbaar is of niet op uw PAD staat."
+
+#: @default%2387
+msgid "eastern-sky"
+msgstr "oostelijke hemel"
+
+#: @default%2388
+msgid "western-sky"
+msgstr "westelijke hemel"
+
+#: @default%2389
+msgid "Loading {} translations from {}"
+msgstr "{} vertalingen laden van {}"
+
+#: @default%2390
+msgid "brightness"
+msgstr "helderheid"
+
+#: @default%2391
+msgid "contrast"
+msgstr "tegenstelling"
+
+#: @default%2392
+msgid "audio volume"
+msgstr "audiovolume"
+
+#: @default%2393
+msgid "audio mute"
+msgstr "audio dempen"
+
+#: @default%2394
+msgid "audio treble"
+msgstr "audio hoge tonen"
+
+#: @default%2395
+msgid "audio bass"
+msgstr "audio bas"
+
+#: @default%2396
+msgid "audio mic volume"
+msgstr "audiomicrofoonvolume"
+
+#: @default%2397
+msgid "input source"
+msgstr "ingangsbron"
+
+#: @default%2398
+msgid "power mode"
+msgstr "energiemodus"
+
+#: @default%2399
+msgid "color temperature"
+msgstr "kleurtemperatuur"
+
+#: @default%23100
+msgid "enable-vcp-codes"
+msgstr "enable-vcp-codes"
+
+#: @default%23101
+msgid "sleep-multiplier"
+msgstr "slaap-multiplier"
+
+#: @default%23102
+msgid "capabilities-override"
+msgstr "mogelijkheden-overschrijven"
+
+#: @default%23103
+msgid "location"
+msgstr "plaats"
+
+#: @default%23104
+msgid "vdu-controls-globals"
+msgstr "vdu-controls-globals"
+
+#: @default%23105
+msgid "system-tray-enabled"
+msgstr "geschikt voor systeemvak"
+
+#: @default%23106
+msgid "splash-screen-enabled"
+msgstr "welkomstscherm ingeschakeld"
+
+#: @default%23107
+msgid "warnings-enabled"
+msgstr "ingeschakeld voor waarschuwingen"
+
+#: @default%23108
+msgid "debug-enabled"
+msgstr "foutopsporing ingeschakeld"
+
+#: @default%23109
+msgid "syslog-enabled"
+msgstr "syslog-enabled"
+
+#: @default%23110
+msgid "vdu-controls-widgets"
+msgstr "vdu-controls-widgets"
+
+#: @default%23111
+msgid "ddcutil-parameters"
+msgstr "ddcutil-parameters"
+
+#: @default%23112
+msgid "ddcutil-capabilities"
+msgstr "ddcutil-mogelijkheden"
+
+#: @default%23113
+msgid "audio speaker volume"
+msgstr "volume audioluidspreker"
+
+#: @default%23114
+msgid "OSD language"
+msgstr "OSD-taal"
+
+#: @default%23115
+msgid "Create new {}?"
+msgstr "Nieuwe {}?"
+
+#: @default%23116
+msgid " (subject to {} weather)"
+msgstr " (afhankelijk van {} weer)"
+
+#: @default%23117
+msgid "Ignoring weather requirements, unable to query local weather: {}"
+msgstr "Weersvereisten negeren, niet in staat zijn om lokaal weer te bevragen: {}"
+
+#: @default%23118
+msgid "Unknown location {}"
+msgstr "Onbekende locatie {}"
+
+#: @default%23119
+msgid "Please check Location in Settings"
+msgstr "Controleer Locatie in Instellingen"
+
+#: @default%23120
+msgid "Failed to get weather from {}"
+msgstr "Kan geen weer krijgen van {}"
+
+#: @default%23121
+msgid "Additional weather requirements"
+msgstr "Aanvullende weersvereisten"
+
+#: @default%23122
+msgid "Weather conditions will be retrieved from {}"
+msgstr "De weersomstandigheden worden opgehaald van {}"
+
+#: @default%23123
+msgid "Failed to validate weather location: {}"
+msgstr "Kan de weerlocatie niet valideren: {}"
+
+#: @default%23124
+msgid "Using newer .ts file {} translations from {}"
+msgstr "Nieuwere .ts-bestand {}-vertalingen van {} gebruiken"
+
+#: @default%23125
+msgid "Using {} translations from {}"
+msgstr "{} vertalingen van {} gebruiken"
+
+#: @default%23126
+msgid "translations-enabled"
+msgstr "vertalingen ingeschakeld"
+
+#: @default%23127
+msgid ""
+"The site {} reports your location as {}, {}, {},{} which is about {} {} from the latitude and "
+"longitude specified in Settings."
+msgstr ""
+"De site {} rapporteert uw locatie als {}, {}, {},{} wat ongeveer {} {} is van de lengte- en "
+"breedtegraad die is opgegeven in Instellingen."
+
+#: @default%23128
+msgid "Weather for {} will be retrieved from {}"
+msgstr "Het weer voor {} wordt opgehaald van {}"
+
+#: @default%23129
+msgid "The change to the translations-enabled option requires vdu_controls to restart."
+msgstr "Voor de wijziging in de optie voor vertalingen moet vdu_controls opnieuw worden opgestart."
+
+#: @default%23130
+msgid "Welcome to vdu_controls version {}"
+msgstr "Welkom bij vdu_controls versie {}"
+
+#: @default%23131
+msgid "Please read the online release notes:"
+msgstr "Lees de online release notes:"
+
+#: @default%23132
+msgid "Please check the location specified in Settings."
+msgstr "Controleer de opgegeven locatie in Instellingen."
+
+#: @default%23133
+msgid "Preset {} activation was cancelled due to weather at {}"
+msgstr "Vooraf ingestelde {} activering is geannuleerd vanwege het weer op {}"
+
+#: @default%23134
+msgid "unscheduled"
+msgstr "Ongeplande"
+
+#: @default%23135
+msgid "succeeded"
+msgstr "Geslaagd"
+
+#: @default%23136
+msgid "skipped, superseded"
+msgstr "overgeslagen, vervangen"
+
+#: @default%23137
+msgid "weather cancellation"
+msgstr "annulering van het weer"
+
+#: @default%23138
+msgid "scheduled"
+msgstr "gepland"
+
+#: @default%23139
+msgid "suspended"
+msgstr "latent"
+
+#: @default%23140
+msgid ""
+"Restoring Preset\n"
+"{}"
+msgstr ""
+"Voorinstelling herstellen\n"
+"{}"
+
+#: @default%23141
+msgid "Checking Presets"
+msgstr "Voorinstellingen controleren"
+
+#: @default%23142
+msgid "Saved {}"
+msgstr "Opgeslagen {}"
+
+#: @default%23143
+msgid "Deleted {}"
+msgstr "Verwijderd {}"
+
+#: @default%23144
+msgid "Restored {}"
+msgstr "Hersteld {}"
+
+#: @default%23145
+msgid "Preset {} activating at {}"
+msgstr "Vooraf ingestelde {} activeren op {}"
+
+#: @default%23146
+msgid "Restore {} (immediately)"
+msgstr "{} herstellen (onmiddellijk)"
+
+#: @default%23147
+msgid "Transition slowly"
+msgstr "Overgang langzaam"
+
+#: @default%23148
+msgid "Transition step"
+msgstr "Overgangsstap"
+
+#: @default%23149
+msgid "seconds"
+msgstr "Seconden"
+
+#: @default%23150
+msgid "No"
+msgstr "Nee"
+
+#: @default%23151
+msgid "On schedule"
+msgstr "Op schema"
+
+#: @default%23152
+msgid "Always"
+msgstr "Altijd"
+
+#: @default%23153
+msgid "Transitioning to preset {}"
+msgstr "Overgang naar vooraf ingestelde {}"
+
+#: @default%23154
+msgid "Transitioning to preset {} (elapsed time {} seconds)..."
+msgstr "Overgang naar vooraf ingestelde {} (verstreken tijd {} seconden)..."
+
+#: @default%23155
+msgid "Restored {} (elapsed time {} seconds)"
+msgstr "Hersteld {} (verstreken tijd {} seconden)"
+
+#: @default%23156
+msgid "Interrupted restoration of {}"
+msgstr "Onderbroken herstel van {}"
