@@ -17,52 +17,56 @@ msgstr ""
 
 #: ../metadata.desktop
 msgid "ChatGPT plasmoid for Plasma"
-msgstr ""
+msgstr "ChatGPT plasmoid for Plasma"
 
 #: ../metadata.desktop
 msgid "ChatGPT"
-msgstr ""
+msgstr "ChatGPT"
 
 #: ../contents/config/config.qml
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: ../contents/ui/configGeneral.qml
 msgid "Send On Enter"
-msgstr ""
+msgstr "Send On Enter"
 
 #: ../contents/ui/configGeneral.qml
 msgid "When checked pressing Enter will send the query to ChatGPT."
-msgstr ""
+msgstr "When checked pressing Enter will send the query to ChatGPT."
 
 #: ../contents/ui/configGeneral.qml
-msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
+msgid ""
+"For now please reload the page with the 'Reload' Button after changing this "
+"configuration."
 msgstr ""
+"For now please reload the page with the 'Reload' Button after changing this "
+"configuration."
 
 #: ../contents/ui/configGeneral.qml
 msgid "Match OS theme"
-msgstr ""
+msgstr "Match OS theme"
 
 #: ../contents/ui/main.qml
 msgid "Chat-GPT"
-msgstr ""
+msgstr "Chat-GPT"
 
 #: ../contents/ui/main.qml
 msgid "Paste the accesss link that was send to your email."
-msgstr ""
+msgstr "Paste the accesss link that was send to your email."
 
 #: ../contents/ui/main.qml
 msgid "Reload"
-msgstr ""
+msgstr "Reload"
 
 #: ../contents/ui/main.qml
 msgid "Im a Pro"
-msgstr ""
+msgstr "Im a Pro"
 
 #: ../contents/ui/main.qml
 msgid "Back to ChatGPT"
-msgstr ""
+msgstr "Back to ChatGPT"
 
 #: ../contents/ui/main.qml
 msgid "Debug"
-msgstr ""
+msgstr "Debug"

@@ -2,7 +2,7 @@
 # Copyright (C) 2023
 # This file is distributed under the same license as the chatGPT package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -12,57 +12,60 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
 
 #: ../metadata.desktop
 msgid "ChatGPT plasmoid for Plasma"
-msgstr ""
+msgstr "Плазмоид ChatGPT для плазмы"
 
 #: ../metadata.desktop
 msgid "ChatGPT"
-msgstr ""
+msgstr "ЧатGPT"
 
 #: ../contents/config/config.qml
 msgid "General"
-msgstr ""
+msgstr "Общее"
 
 #: ../contents/ui/configGeneral.qml
 msgid "Send On Enter"
-msgstr ""
+msgstr "Отправить при вводе"
 
 #: ../contents/ui/configGeneral.qml
 msgid "When checked pressing Enter will send the query to ChatGPT."
-msgstr ""
+msgstr "При установке флажка нажатие Enter отправит запрос в ChatGPT."
 
 #: ../contents/ui/configGeneral.qml
 msgid "For now please reload the page with the 'Reload' Button after changing this configuration."
 msgstr ""
+"А пока, пожалуйста, перезагрузите страницу с помощью кнопки «Перезагрузить» после изменения этой "
+"конфигурации."
 
 #: ../contents/ui/configGeneral.qml
 msgid "Match OS theme"
-msgstr ""
+msgstr "Тема \"Матч с ОС\""
 
 #: ../contents/ui/main.qml
 msgid "Chat-GPT"
-msgstr ""
+msgstr "Чат-GPT"
 
 #: ../contents/ui/main.qml
 msgid "Paste the accesss link that was send to your email."
-msgstr ""
+msgstr "Вставьте ссылку доступа, которая была отправлена на вашу электронную почту."
 
 #: ../contents/ui/main.qml
 msgid "Reload"
-msgstr ""
+msgstr "Перезаряжать"
 
 #: ../contents/ui/main.qml
 msgid "Im a Pro"
-msgstr ""
+msgstr "Я профессионал"
 
 #: ../contents/ui/main.qml
 msgid "Back to ChatGPT"
-msgstr ""
+msgstr "Вернуться к ChatGPT"
 
 #: ../contents/ui/main.qml
 msgid "Debug"
-msgstr ""
+msgstr "Отлаживать"
