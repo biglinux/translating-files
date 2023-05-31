@@ -1,46 +1,44 @@
 # translation of plasma_applet_battery.po to greek
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Spiros Georgaras <sng@hellug.gr>, 2007, 2008.
 # Toussis Manolis <manolis@koppermind.homelinux.org>, 2007, 2008, 2009.
 # Dimitrios Glentadakis <dglent@gmail.com>, 2011, 2012, 2013.
 # Antonis Geralis <capoiosct@gmail.com>, 2012, 2014.
 # Stelios <sstavra@gmail.com>, 2012, 2016.
 # Dimitris Kardarakos <dimkard@gmail.com>, 2014, 2015, 2016, 2017.
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_battery\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-08 00:48+0000\n"
-"PO-Revision-Date: 2017-02-17 16:54+0200\n"
 "Last-Translator: Dimitris Kardarakos <dimkard@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-el@kde.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: attranslate\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: package/contents/ui/BatteryItem.qml:106
-#, kde-format
-msgctxt "Placeholder is battery percentage"
-msgid "%1%"
-msgstr "%1%"
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Μπαταρία Biglinux, Φωτεινότητα και απόδοση συστήματος"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Δείτε την κατάσταση ισχύος της μπαταρίας σας και διαχειριστείτε την απόδοση"
 
 #: package/contents/ui/BatteryItem.qml:167
 #, fuzzy, kde-format
 #| msgid ""
 #| "The capacity of this battery is %1%. This means it is broken and needs a "
 #| "replacement. Please contact your hardware vendor for more details."
-msgid ""
-"This battery's health is at only %1% and it should be replaced. Contact the "
-"manufacturer."
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
 msgstr ""
-"Η χωρητικότητα της μπαταρίας είναι στο %1%. Αυτό σημαίνει πως είναι "
-"κατεστραμμένη και χρειάζεται αντικατάσταση. Επικοινωνήστε με τον προμηθευτή "
-"του υλικού σας για λεπτομέρειες."
+"Η χωρητικότητα της μπαταρίας είναι στο %1%. Αυτό σημαίνει πως είναι κατεστραμμένη και χρειάζεται "
+"αντικατάσταση. Επικοινωνήστε με τον προμηθευτή του υλικού σας για λεπτομέρειες."
 
 #: package/contents/ui/BatteryItem.qml:186
 #, kde-format
@@ -52,42 +50,20 @@ msgstr "Χρόνος για πλήρη φόρτιση:"
 msgid "Remaining Time:"
 msgstr ""
 
-#: package/contents/ui/BatteryItem.qml:192
-#, kde-format
-msgctxt "@info"
-msgid "Estimating…"
-msgstr ""
-
 #: package/contents/ui/BatteryItem.qml:204
 #, fuzzy, kde-format
 #| msgid "Battery:"
 msgid "Battery Health:"
 msgstr "Μπαταρία:"
 
-#: package/contents/ui/BatteryItem.qml:210
-#, fuzzy, kde-format
-#| msgctxt "Placeholder is battery percentage"
-#| msgid "%1%"
-msgctxt "Placeholder is battery health percentage"
-msgid "%1%"
-msgstr "%1%"
-
 #: package/contents/ui/BatteryItem.qml:224
 #, kde-format
 msgid "Battery is configured to charge up to approximately %1%."
 msgstr ""
 
-#: package/contents/ui/BrightnessItem.qml:64
-#, kde-format
-msgctxt "Placeholder is brightness percentage"
-msgid "%1%"
-msgstr "%1%"
-
-#: package/contents/ui/CompactRepresentation.qml:103
-#, kde-format
-msgctxt "battery percentage below battery icon"
-msgid "%1%"
-msgstr "%1%"
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Απενεργοποίηση εφέ επιφάνειας εργασίας"
 
 #: package/contents/ui/logic.js:23 package/contents/ui/logic.js:29
 #: package/contents/ui/main.qml:145
@@ -110,35 +86,21 @@ msgstr "Σε φόρτιση"
 msgid "Not Charging"
 msgstr "Εκτός φόρτισης"
 
-#: package/contents/ui/logic.js:35
-#, kde-format
-msgctxt "Battery is currently not present in the bay"
-msgid "Not present"
-msgstr "Απούσα"
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Μπαταρία και φωτεινότητα Biglinux"
 
-#: package/contents/ui/main.qml:118 package/contents/ui/main.qml:361
-#, kde-format
-msgid "Battery and Brightness"
-msgstr "Μπαταρία και λαμπρότητα"
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Φωτεινότητα Biglinux"
 
-#: package/contents/ui/main.qml:119
-#, fuzzy, kde-format
-#| msgid "Display Brightness"
-msgid "Brightness"
-msgstr "Λαμπρότητα οθόνης"
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "Μπαταρία biglinux"
 
-#: package/contents/ui/main.qml:120
-#, fuzzy, kde-format
-#| msgctxt "Placeholder is the battery ID"
-#| msgid "Battery %1:"
-msgid "Battery"
-msgstr "Μπαταρία %1:"
-
-#: package/contents/ui/main.qml:120
-#, fuzzy, kde-format
-#| msgid "Enable Power Management"
-msgid "Power Management"
-msgstr "Ενεργοποίηση της διαχείρισης ενέργειας"
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Διαχείριση ενέργειας Biglinux"
 
 #: package/contents/ui/main.qml:152
 #, fuzzy, kde-format
@@ -176,21 +138,6 @@ msgstr "Εμφάνιση ποσοστού &φόρτισης της μπαταρ�
 msgid "No Batteries Available"
 msgstr "Καμιά μπαταρία διαθέσιμη"
 
-#: package/contents/ui/main.qml:177
-#, fuzzy, kde-format
-#| msgid "Fully Charged"
-msgctxt "time until fully charged - HH:MM"
-msgid "%1 until fully charged"
-msgstr "Πλήρως φορτισμένη"
-
-#: package/contents/ui/main.qml:179
-#, fuzzy, kde-format
-#| msgctxt "%1 is remaining time, %2 is percentage"
-#| msgid "%1 Remaining (%2%)"
-msgctxt "remaining time left of battery usage - HH:MM"
-msgid "%1 remaining"
-msgstr "%1 Απομένει (%2%)"
-
 #: package/contents/ui/main.qml:182
 #, fuzzy, kde-format
 #| msgid "Not Charging"
@@ -206,8 +153,7 @@ msgstr ""
 #, kde-format
 msgid "An application has requested activating Performance mode"
 msgid_plural "%1 applications have requested activating Performance mode"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ","
 
 #: package/contents/ui/main.qml:195
 #, kde-format
@@ -218,8 +164,7 @@ msgstr ""
 #, kde-format
 msgid "An application has requested activating Power Save mode"
 msgid_plural "%1 applications have requested activating Power Save mode"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ","
 
 #: package/contents/ui/main.qml:203
 #, kde-format
@@ -236,6 +181,11 @@ msgstr "Λαμπρότητα οθόνης:"
 #, kde-format
 msgid "The battery applet has enabled system-wide inhibition"
 msgstr "Η μικροεφαρμογή μπαταρίας έχει ενεργοποιήσει καθολική αποτροπή"
+
+#: package/contents/ui/main.qml:118 package/contents/ui/main.qml:361
+#, kde-format
+msgid "Battery and Brightness"
+msgstr "Μπαταρία και λαμπρότητα"
 
 #: package/contents/ui/main.qml:364
 #, kde-format
@@ -270,31 +220,11 @@ msgstr "Λαμπρότητα οθόνης"
 msgid "Keyboard Brightness"
 msgstr "Λαμπρότητα πληκτρολογίου"
 
-#: package/contents/ui/PowerManagementItem.qml:42
-#, kde-format
-msgctxt "Minimize the length of this string as much as possible"
-msgid "Manually block sleep and screen locking"
-msgstr ""
-
-#: package/contents/ui/PowerManagementItem.qml:75
-#, fuzzy, kde-format
-#| msgid ""
-#| "Your notebook is configured not to suspend when closing the lid while an "
-#| "external monitor is connected."
-msgctxt "Minimize the length of this string as much as possible"
-msgid ""
-"Your laptop is configured not to sleep when closing the lid while an "
-"external monitor is connected."
-msgstr ""
-"Ο φορητός υπολογιστής σας είναι διαμορφωμένος να μην μπαίνει σε αναστολή "
-"όταν κλείνει το καπάκι, σε περίπτωση που έχει συνδεθεί εξωτερική οθόνη."
-
 #: package/contents/ui/PowerManagementItem.qml:88
 #, kde-format
 msgid "%1 application is currently blocking sleep and screen locking:"
 msgid_plural "%1 applications are currently blocking sleep and screen locking:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ","
 
 #: package/contents/ui/PowerManagementItem.qml:109
 #, kde-format
@@ -304,18 +234,6 @@ msgstr ""
 #: package/contents/ui/PowerManagementItem.qml:110
 #, kde-format
 msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
-msgstr ""
-
-#: package/contents/ui/PowerManagementItem.qml:112
-#, kde-format
-msgctxt "Application name: reason for preventing sleep and screen locking"
-msgid "%1: %2"
-msgstr ""
-
-#: package/contents/ui/PowerManagementItem.qml:113
-#, kde-format
-msgctxt "Application name: reason for preventing sleep and screen locking"
-msgid "%1: unknown reason"
 msgstr ""
 
 #: package/contents/ui/PowerProfileItem.qml:34
@@ -343,14 +261,13 @@ msgstr "Προφίλ ενέργειας:"
 #: package/contents/ui/PowerProfileItem.qml:191
 #, kde-format
 msgid ""
-"Performance mode has been disabled to reduce heat generation because the "
-"computer has detected that it may be sitting on your lap."
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
 msgstr ""
 
 #: package/contents/ui/PowerProfileItem.qml:193
 #, kde-format
-msgid ""
-"Performance mode is unavailable because the computer is running too hot."
+msgid "Performance mode is unavailable because the computer is running too hot."
 msgstr ""
 
 #: package/contents/ui/PowerProfileItem.qml:195
@@ -362,8 +279,8 @@ msgstr "Η διαχείριση ενέργειας είναι απενεργοπ
 #: package/contents/ui/PowerProfileItem.qml:208
 #, kde-format
 msgid ""
-"Performance may be lowered to reduce heat generation because the computer "
-"has detected that it may be sitting on your lap."
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
 msgstr ""
 
 #: package/contents/ui/PowerProfileItem.qml:210
@@ -381,318 +298,90 @@ msgstr "Η διαχείριση ενέργειας είναι απενεργοπ
 #, kde-format
 msgid "One application has requested activating %2:"
 msgid_plural "%1 applications have requested activating %2:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ","
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/BatteryItem.qml:192
+#, kde-format
+msgctxt "@info"
+msgid "Estimating…"
+msgstr ""
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/logic.js:35
+#, kde-format
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Απούσα"
+
+#: package/contents/ui/main.qml:177
+#, fuzzy, kde-format
+#| msgid "Fully Charged"
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "Πλήρως φορτισμένη"
+
+#: package/contents/ui/main.qml:179
+#, fuzzy, kde-format
+#| msgctxt "%1 is remaining time, %2 is percentage"
+#| msgid "%1 Remaining (%2%)"
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 Απομένει (%2%)"
+
+#: package/contents/ui/PowerManagementItem.qml:42
+#, kde-format
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr ""
+
+#: package/contents/ui/PowerManagementItem.qml:75
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your notebook is configured not to suspend when closing the lid while an "
+#| "external monitor is connected."
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr ""
+"Ο φορητός υπολογιστής σας είναι διαμορφωμένος να μην μπαίνει σε αναστολή όταν κλείνει το καπάκι, σε "
+"περίπτωση που έχει συνδεθεί εξωτερική οθόνη."
 
 #: package/contents/ui/PowerProfileItem.qml:241
 #, kde-format
-msgctxt ""
-"%1 is the name of the application, %2 is the reason provided by it for "
-"activating performance mode"
+msgctxt "Application name: reason for preventing sleep and screen locking"
 msgid "%1: %2"
 msgstr ""
 
-#, fuzzy
-#~| msgid "Power management is disabled"
-#~ msgid "Performance mode has been manually enabled"
-#~ msgstr "Η διαχείριση ενέργειας είναι απενεργοποιημένη"
-
-#~ msgid "General"
-#~ msgstr "Γενικά"
-
-#, fuzzy
-#~| msgctxt "short symbol to signal there is no battery curently available"
-#~| msgid "-"
-#~ msgctxt "short symbol to signal there is no battery currently available"
-#~ msgid "-"
-#~ msgstr "-"
-
-#~ msgid "Configure Power Saving..."
-#~ msgstr "Διαμόρφωση της εξοικονόμησης ενέργειας..."
-
-#~ msgid "Time To Empty:"
-#~ msgstr "Χρόνος για πλήρη αποφόρτιση:"
-
-#~ msgid ""
-#~ "Disabling power management will prevent your screen and computer from "
-#~ "turning off automatically.\n"
-#~ "\n"
-#~ "Most applications will automatically suppress power management when they "
-#~ "don't want to have you interrupted."
-#~ msgstr ""
-#~ "Η απενεργοποίηση της διαχείρισης ενέργειας θα αποτρέψει την αυτόματη "
-#~ "απενεργοποίηση της οθόνης και του υπολογιστή σας.\n"
-#~ "\n"
-#~ "Οι περισσότερες εφαρμογές παρακάμπτουν τη διαχείριση ενέργειας όταν δε "
-#~ "θέλουν να σας διακόπτουν."
-
-#~ msgctxt "Some Application and n others are currently suppressing PM"
-#~ msgid ""
-#~ "%2 and %1 other application are currently suppressing power management."
-#~ msgid_plural ""
-#~ "%2 and %1 other applications are currently suppressing power management."
-#~ msgstr[0] ""
-#~ "Η %2 και %1 άλλη εφαρμογή αυτή τη στιγμή καταστέλλουν τη διαχείριση "
-#~ "ενέργειας."
-#~ msgstr[1] ""
-#~ "Η %2 και %1 άλλες εφαρμογές αυτή τη στιγμή καταστέλλουν τη διαχείριση "
-#~ "ενέργειας."
-
-#~ msgctxt "Some Application is suppressing PM"
-#~ msgid "%1 is currently suppressing power management."
-#~ msgstr "Η %1 αυτή τη στιγμή καταστέλλει τη διαχείριση ενέργειας."
-
-#~ msgctxt "Some Application is suppressing PM: Reason provided by the app"
-#~ msgid "%1 is currently suppressing power management: %2"
-#~ msgstr "Η %1 αυτή τη στιγμή καταστέλλει τη διαχείριση ενέργειας: %2"
-
-#~ msgctxt "Used for measurement"
-#~ msgid "100%"
-#~ msgstr "100%"
-
-#, fuzzy
-#~| msgid "%1%. Charging"
-#~ msgid "%1% Charging"
-#~ msgstr "%1%. Σε φόρτιση"
-
-#, fuzzy
-#~| msgid "%1%. Plugged in"
-#~ msgid "%1% Plugged in"
-#~ msgstr "%1%. Συνδεδεμένο"
-
-#~ msgid "%1% Battery Remaining"
-#~ msgstr "%1% Μπαταρία απομένει"
-
-#, fuzzy
-#~| msgid "Capacity:"
-#~ msgctxt "The degradation in the battery's energy capacity"
-#~ msgid "Capacity degradation:"
-#~ msgstr "Χωρητικότητα:"
-
-#, fuzzy
-#~| msgctxt "Placeholder is battery percentage"
-#~| msgid "%1%"
-#~ msgctxt "Placeholder is battery's capacity degradation"
-#~ msgid "%1%"
-#~ msgstr "%1%"
-
-#~ msgctxt "Placeholder is battery capacity"
-#~ msgid "%1%"
-#~ msgstr "%1%"
-
-#~ msgid "Vendor:"
-#~ msgstr "Κατασκευαστής:"
-
-#~ msgid "Model:"
-#~ msgstr "Μοντέλο:"
-
-#~ msgid "No screen or keyboard brightness controls available"
-#~ msgstr ""
-#~ "Δεν υπάρχουν διαθέσιμα χειριστήρια για τη φωτεινότητα οθόνης ή "
-#~ "πληκτρολογίου"
-
-#~ msgctxt "Placeholders are current and maximum brightness step"
-#~ msgid "%1/%2"
-#~ msgstr "%1/%2"
-
-#~ msgctxt "Placeholder is battery name"
-#~ msgid "%1:"
-#~ msgstr "%1:"
-
-#~ msgid "N/A"
-#~ msgstr "N/A"
-
-#~ msgid "1 hour "
-#~ msgid_plural "%1 hours "
-#~ msgstr[0] "1 ώρα "
-#~ msgstr[1] "%1 ώρες "
-
-#~ msgid "1 minute"
-#~ msgid_plural "%1 minutes"
-#~ msgstr[0] "1 λεπτό"
-#~ msgstr[1] "%1 λεπτά"
-
-#, fuzzy
-#~| msgid "AC Adapter:"
-#~ msgid "AC Adapter"
-#~ msgstr "Τροφοδοτικό AC:"
-
-#, fuzzy
-#~| msgid "Plugged in"
-#~ msgid "Plugged In"
-#~ msgstr "Συνδεδεμένο"
-
-#, fuzzy
-#~| msgid "Not plugged in"
-#~ msgid "Not Plugged In"
-#~ msgstr "Αποσυνδεδεμένο"
-
-#, fuzzy
-#~| msgctxt "Label for remaining time"
-#~| msgid "Time Remaining:"
-#~ msgid "Time remaining until full: %1"
-#~ msgstr "Υπολειπόμενος χρόνος:"
-
-#, fuzzy
-#~| msgctxt "Label for remaining time"
-#~| msgid "Time Remaining:"
-#~ msgid "Time remaining until empty: %1"
-#~ msgstr "Υπολειπόμενος χρόνος:"
-
-#, fuzzy
-#~| msgid "<b>Battery:</b> %1% (fully charged)<br />"
-#~ msgid "%1% (charged)"
-#~ msgstr "<b>Μπαταρία:</b> %1% (πλήρως φορτισμένη)<br />"
-
-#~ msgctxt "tooltip"
-#~ msgid "AC Adapter:"
-#~ msgstr "AC τροφοδοτικό:"
-
-#~ msgctxt "tooltip"
-#~ msgid "<b>Plugged in</b>"
-#~ msgstr "<b>Συνδεδεμένο</b>"
-
-#~ msgctxt "tooltip"
-#~ msgid "<b>Not plugged in</b>"
-#~ msgstr "<b>Αποσυνδεδεμένο</b>"
-
-#~ msgctxt "overlay on the battery, needs to be really tiny"
-#~ msgid "%1%"
-#~ msgstr "%1%"
-
-#~ msgid "Configure Battery Monitor"
-#~ msgstr "Διαμόρφωση επόπτη μπαταρίας"
-
-#~ msgctxt "Suspend the computer to RAM; translation should be short"
-#~ msgid "Sleep"
-#~ msgstr "Κοίμηση"
-
-#~ msgctxt "Suspend the computer to disk; translation should be short"
-#~ msgid "Hibernate"
-#~ msgstr "Νάρκη"
-
-#~ msgid "<b>%1% (charged)</b>"
-#~ msgstr "<b>%1% (φορτισμένη)</b>"
-
-#~ msgid "<b>%1% (discharging)</b>"
-#~ msgstr "<b>%1% (αποφόρτιση)</b>"
-
-#~ msgid "<b>%1% (charging)</b>"
-#~ msgstr "<b>%1% (φόρτιση)</b>"
-
-#~ msgctxt "Battery is not plugged in"
-#~ msgid "<b>Not present</b>"
-#~ msgstr "<b>Απούσα</b>"
-
-#~ msgid "Show the state for &each battery present"
-#~ msgstr "&Εμφάνιση της κατάστασης όλων των μπαταριών"
-
-#~ msgid "<b>Battery:</b>"
-#~ msgstr "<b>Μπαταρία:</b>"
-
-#~ msgctxt "tooltip"
-#~ msgid "<b>AC Adapter:</b>"
-#~ msgstr "<b>Τροφοδοτικό AC:</b>"
-
-#~ msgctxt "tooltip"
-#~ msgid "Not plugged in"
-#~ msgstr "Αποσυνδεδεμένο"
-
-#, fuzzy
-#~| msgid "Show remaining &time"
-#~ msgid "Show remaining time for the battery"
-#~ msgstr "Εμφάνιση &χρόνου που απομένει"
-
-#~ msgctxt "tooltip: placeholder is the battery ID"
-#~ msgid "<b>Battery %1:</b>"
-#~ msgstr "<b>Μπαταρία %1:</b>"
-
-#, fuzzy
-#~| msgid "AC Adapter"
-#~ msgid "AC Adapter: "
-#~ msgstr "Πρίζα AC"
-
-#, fuzzy
-#~| msgctxt "Battery is not plugged in"
-#~| msgid "<b>Battery:</b> not present<br />"
-#~ msgid "<b>Battery:</b> "
-#~ msgstr "<b>Μπαταρία:</b> δεν υπάρχει<br />"
-
-#, fuzzy
-#~| msgctxt "Shown when a time estimate is not available"
-#~| msgid "<b>Battery:</b> %1% (discharging)<br />"
-#~ msgctxt "state of battery"
-#~ msgid "%1% (discharging)"
-#~ msgstr "<b>Μπαταρία:</b> %1% (αποφόρτιση)<br />"
-
-#~ msgid "Actions"
-#~ msgstr "Ενέργειες"
-
-#~ msgid "<b>Battery:</b> %1% (charging)<br />"
-#~ msgstr "<b>Μπαταρία:</b> %1% (φόρτιση)<br />"
-
-#~ msgid "<b>Battery %1:</b> %2% (fully charged)<br />"
-#~ msgstr "<b>Μπαταρία %1:</b> %2% (πλήρως φορτισμένη)<br />"
-
-#~ msgid "<b>Battery %1:</b> %2% (discharging)<br />"
-#~ msgstr "<b>Μπαταρία %1:</b> %2% (αποφόρτιση)<br />"
-
-#~ msgid "<b>AC Adapter:</b> Not plugged in"
-#~ msgstr "<b>Μετασχηματιστής AC:</b> Εκτός σύνδεσης"
-
-#~ msgid "<b>1 hour 1 minute</b> remaining<br />"
-#~ msgid_plural "<b>1 hour %1 minutes</b> remaining<br />"
-#~ msgstr[0] "απομένουν <b>1 ώρα 1 λεπτό</b><br />"
-#~ msgstr[1] "απομένουν <b>1 ώρα %1 λεπτά</b><br />"
-
-#~ msgid "<b>%1 hour %1 minute</b> remaining<br />"
-#~ msgid_plural "<b>%1 hours %2 minute</b> remaining<br />"
-#~ msgstr[0] "απομένουν <b>%1 ώρα %1 λεπτό</b><br />"
-#~ msgstr[1] "απομένουν <b>%1 ώρες %2 λεπτά</b><br />"
-
-#~ msgid "<b>%1 hour %2 minutes</b> remaining<br />"
-#~ msgid_plural "<b>%1 hours %2 minutes</b> remaining<br />"
-#~ msgstr[0] "απομένουν <b>%1 ώρα %2 λεπτά</b><br />"
-#~ msgstr[1] "απομένουν <b>%1 ώρες %2 λεπτά</b><br />"
-
-#~ msgid "<b>%1 hours</b> remaining<br />"
-#~ msgstr "απομένουν <b>%1 ώρες</b><br />"
-
-#~ msgid "<b>%1 minute</b> remaining<br />"
-#~ msgid_plural "<b>%1 minutes</b> remaining<br />"
-#~ msgstr[0] "απομένουν <b>%1 λεπτό</b><br />"
-#~ msgstr[1] "απομένουν <b>%1 λεπτά</b><br />"
-
-#~ msgid "Oxygen theme"
-#~ msgstr "Θέμα Oxygen"
-
-#~ msgid "Classic theme"
-#~ msgstr "Κλασικό θέμα"
-
-#~ msgid "sources"
-#~ msgstr "πηγές"
-
-#~ msgid "PowerDevil"
-#~ msgstr "PowerDevil"
-
-#~ msgid "availableProfiles"
-#~ msgstr "διαθέσιμα προφίλ"
-
-#~ msgid "currentProfile"
-#~ msgstr "τρέχον προφίλ"
-
-#~ msgid "Percent"
-#~ msgstr "Επί τοις εκατό"
-
-#~ msgid "n/a"
-#~ msgstr "μ/δ"
-
-#, fuzzy
-#~| msgid "Battery"
-#~ msgid ""
-#~ "Battery:\n"
-#~ "CPU:"
-#~ msgstr "Μπαταρία"
-
-#~ msgid "Always show &background"
-#~ msgstr "Πάντα εμφάνιση &φόντου"
+#: package/contents/ui/PowerManagementItem.qml:113
+#, kde-format
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr ""
+
+#: package/contents/ui/PowerProfileItem.qml:241
+#, kde-format
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr ""

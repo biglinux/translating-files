@@ -7,35 +7,34 @@
 # Mthw <jari_45@hotmail.com>, 2018.
 # Matej Mrenica <matejm98mthw@gmail.com>, 2019, 2020, 2021, 2022, 2023.
 # Dušan Kazik <prescott66@gmail.com>, 2020.
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_org.kde.plasma.battery\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-08 00:48+0000\n"
-"PO-Revision-Date: 2023-03-08 17:22+0100\n"
 "Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
 "Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: attranslate\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: package/contents/ui/BatteryItem.qml:106
-#, kde-format
-msgctxt "Placeholder is battery percentage"
-msgid "%1%"
-msgstr "%1%"
+#: ../metadata.desktop
+msgid "Biglinux battery, Brightness and system performance"
+msgstr "Batéria Biglinux, jas a výkon systému"
+
+#: ../metadata.desktop
+msgid "See the power status of your battery and manage performance"
+msgstr "Zobrazenie stavu batérie a správa výkonu"
 
 #: package/contents/ui/BatteryItem.qml:167
 #, kde-format
-msgid ""
-"This battery's health is at only %1% and it should be replaced. Contact the "
-"manufacturer."
+msgid "This battery's health is at only %1% and it should be replaced. Contact the manufacturer."
 msgstr ""
-"Zdravie tejto batérie je na úrovni iba %1% a mala by byť vymenená. Prosím, "
-"kontaktujte vášho výrobcu hardvéru pre viac podrobností."
+"Zdravie tejto batérie je na úrovni iba %1% a mala by byť vymenená. Prosím, kontaktujte vášho "
+"výrobcu hardvéru pre viac podrobností."
 
 #: package/contents/ui/BatteryItem.qml:186
 #, kde-format
@@ -47,39 +46,19 @@ msgstr "Čas do nabitia:"
 msgid "Remaining Time:"
 msgstr "Zostávajúci čas:"
 
-#: package/contents/ui/BatteryItem.qml:192
-#, kde-format
-msgctxt "@info"
-msgid "Estimating…"
-msgstr "Odhadovanie..."
-
 #: package/contents/ui/BatteryItem.qml:204
 #, kde-format
 msgid "Battery Health:"
 msgstr "Zdravie batérie:"
-
-#: package/contents/ui/BatteryItem.qml:210
-#, kde-format
-msgctxt "Placeholder is battery health percentage"
-msgid "%1%"
-msgstr "%1%"
 
 #: package/contents/ui/BatteryItem.qml:224
 #, kde-format
 msgid "Battery is configured to charge up to approximately %1%."
 msgstr "Batéria je nakonfigurovaná tak, aby sa nabíjala približne na %1%."
 
-#: package/contents/ui/BrightnessItem.qml:64
-#, kde-format
-msgctxt "Placeholder is brightness percentage"
-msgid "%1%"
-msgstr "%1%"
-
-#: package/contents/ui/CompactRepresentation.qml:103
-#, kde-format
-msgctxt "battery percentage below battery icon"
-msgid "%1%"
-msgstr "%1%"
+#: ../contents/ui/DisableEffectsItem.qml
+msgid "Disable desktop effects"
+msgstr "Vypnutie efektov pracovnej plochy"
 
 #: package/contents/ui/logic.js:23 package/contents/ui/logic.js:29
 #: package/contents/ui/main.qml:145
@@ -102,31 +81,21 @@ msgstr "Nabíja sa"
 msgid "Not Charging"
 msgstr "Nenabíja sa"
 
-#: package/contents/ui/logic.js:35
-#, kde-format
-msgctxt "Battery is currently not present in the bay"
-msgid "Not present"
-msgstr "Nie je prítomná"
+#: ../contents/ui/main.qml
+msgid "Biglinux Battery and Brightness"
+msgstr "Batéria a jas Biglinuxu"
 
-#: package/contents/ui/main.qml:118 package/contents/ui/main.qml:361
-#, kde-format
-msgid "Battery and Brightness"
-msgstr "Batéria a jas"
+#: ../contents/ui/main.qml
+msgid "Biglinux Brightness"
+msgstr "Jas Biglinuxu"
 
-#: package/contents/ui/main.qml:119
-#, kde-format
-msgid "Brightness"
-msgstr "Jas"
+#: ../contents/ui/main.qml
+msgid "biglinux Battery"
+msgstr "Batéria biglinux"
 
-#: package/contents/ui/main.qml:120
-#, kde-format
-msgid "Battery"
-msgstr "Batéria"
-
-#: package/contents/ui/main.qml:120
-#, kde-format
-msgid "Power Management"
-msgstr "Správa napájania"
+#: ../contents/ui/main.qml
+msgid "Biglinux Power Management"
+msgstr "Správa napájania Biglinux"
 
 #: package/contents/ui/main.qml:152
 #, kde-format
@@ -158,18 +127,6 @@ msgstr "Zdroj energie nie je dostatočne výkonný na nabitie batérie"
 msgid "No Batteries Available"
 msgstr "Batérie nie sú dostupné"
 
-#: package/contents/ui/main.qml:177
-#, kde-format
-msgctxt "time until fully charged - HH:MM"
-msgid "%1 until fully charged"
-msgstr "%1 do úplného nabitia"
-
-#: package/contents/ui/main.qml:179
-#, kde-format
-msgctxt "remaining time left of battery usage - HH:MM"
-msgid "%1 remaining"
-msgstr "%1 zostáva"
-
 #: package/contents/ui/main.qml:182
 #, kde-format
 msgid "Not charging"
@@ -184,9 +141,9 @@ msgstr "Automatický spánok a uzamknutie obrazovky sú vypnuté"
 #, kde-format
 msgid "An application has requested activating Performance mode"
 msgid_plural "%1 applications have requested activating Performance mode"
-msgstr[0] "Aplikácia požiadala o aktiváciu režimu Vysokého výkonu"
-msgstr[1] "%1 aplikácie požiadali o aktiváciu režimu Vysokého výkonu"
-msgstr[2] "%1 aplikácií požiadalo o aktiváciu režimu Vysokého výkonu"
+msgstr[0] ""
+"Aplikácia požiadala o aktiváciu režimu Vysokého výkonu,%1 aplikácie požiadali o aktiváciu režimu "
+"Vysokého výkonu,%1 aplikácií požiadalo o aktiváciu režimu Vysokého výkonu"
 
 #: package/contents/ui/main.qml:195
 #, kde-format
@@ -197,9 +154,9 @@ msgstr "System je v režime vysokého výkonu"
 #, kde-format
 msgid "An application has requested activating Power Save mode"
 msgid_plural "%1 applications have requested activating Power Save mode"
-msgstr[0] "Aplikácia požiadala o aktiváciu Úsporného režimu"
-msgstr[1] "%1 aplikácie požiadali o aktiváciu Úsporného režimu"
-msgstr[2] "%1 aplikácií požiadalo o aktiváciu Úsporného režimu"
+msgstr[0] ""
+"Aplikácia požiadala o aktiváciu Úsporného režimu,%1 aplikácie požiadali o aktiváciu Úsporného "
+"režimu,%1 aplikácií požiadalo o aktiváciu Úsporného režimu"
 
 #: package/contents/ui/main.qml:203
 #, kde-format
@@ -215,6 +172,11 @@ msgstr "Kolieskom myši upravíte jas obrazovky"
 #, kde-format
 msgid "The battery applet has enabled system-wide inhibition"
 msgstr "Applet batérie povolil potlačenie celého systému."
+
+#: package/contents/ui/main.qml:118 package/contents/ui/main.qml:361
+#, kde-format
+msgid "Battery and Brightness"
+msgstr "Batéria a jas"
 
 #: package/contents/ui/main.qml:364
 #, kde-format
@@ -246,29 +208,13 @@ msgstr "Jas obrazovky"
 msgid "Keyboard Brightness"
 msgstr "Jas klávesnice"
 
-#: package/contents/ui/PowerManagementItem.qml:42
-#, kde-format
-msgctxt "Minimize the length of this string as much as possible"
-msgid "Manually block sleep and screen locking"
-msgstr "Ručne zakázať spánok a uzamknutie obrazovky"
-
-#: package/contents/ui/PowerManagementItem.qml:75
-#, kde-format
-msgctxt "Minimize the length of this string as much as possible"
-msgid ""
-"Your laptop is configured not to sleep when closing the lid while an "
-"external monitor is connected."
-msgstr ""
-"Váš notebook je nastavený, aby sa neuspal pri zatvorení veka, ak je "
-"pripojený externý monitor."
-
 #: package/contents/ui/PowerManagementItem.qml:88
 #, kde-format
 msgid "%1 application is currently blocking sleep and screen locking:"
 msgid_plural "%1 applications are currently blocking sleep and screen locking:"
-msgstr[0] "%1 aplikácia zabraňuje spánku a uzamknutiu obrazovky:"
-msgstr[1] "%1 aplikácií zabraňuje spánku a uzamknutiu obrazovky:"
-msgstr[2] "%1 aplikácií zabraňuje spánku a uzamknutiu obrazovky:"
+msgstr[0] ""
+"%1 aplikácia zabraňuje spánku a uzamknutiu obrazovky:,%1 aplikácií zabraňuje spánku a uzamknutiu "
+"obrazovky:,%1 aplikácií zabraňuje spánku a uzamknutiu obrazovky:"
 
 #: package/contents/ui/PowerManagementItem.qml:109
 #, kde-format
@@ -279,18 +225,6 @@ msgstr "%1 aplikácia zabraňuje spánku a uzamknutiu obrazovky (%2)"
 #, kde-format
 msgid "%1 is currently blocking sleep and screen locking (unknown reason)"
 msgstr "%1 aplikácia zabraňuje spánku a uzamknutiu obrazovky (neznámy dôvod)"
-
-#: package/contents/ui/PowerManagementItem.qml:112
-#, kde-format
-msgctxt "Application name: reason for preventing sleep and screen locking"
-msgid "%1: %2"
-msgstr "%1: %2"
-
-#: package/contents/ui/PowerManagementItem.qml:113
-#, kde-format
-msgctxt "Application name: reason for preventing sleep and screen locking"
-msgid "%1: unknown reason"
-msgstr "%1: neznámy dôvod"
 
 #: package/contents/ui/PowerProfileItem.qml:34
 #, kde-format
@@ -315,18 +249,16 @@ msgstr "Profil napájania"
 #: package/contents/ui/PowerProfileItem.qml:191
 #, kde-format
 msgid ""
-"Performance mode has been disabled to reduce heat generation because the "
-"computer has detected that it may be sitting on your lap."
+"Performance mode has been disabled to reduce heat generation because the computer has detected that "
+"it may be sitting on your lap."
 msgstr ""
-"Režim výkonu bol deaktivovaný, aby sa znížilo vytváranie tepla, pretože "
-"počítač zistil, že vám možno sedí na kolenách."
+"Režim výkonu bol deaktivovaný, aby sa znížilo vytváranie tepla, pretože počítač zistil, že vám "
+"možno sedí na kolenách."
 
 #: package/contents/ui/PowerProfileItem.qml:193
 #, kde-format
-msgid ""
-"Performance mode is unavailable because the computer is running too hot."
-msgstr ""
-"Režim vysokého výkonu nie je k dispozícii, pretože počítač je príliš horúci."
+msgid "Performance mode is unavailable because the computer is running too hot."
+msgstr "Režim vysokého výkonu nie je k dispozícii, pretože počítač je príliš horúci."
 
 #: package/contents/ui/PowerProfileItem.qml:195
 #, kde-format
@@ -336,11 +268,11 @@ msgstr "Režim vysokého výkonu nie je k dispozícii."
 #: package/contents/ui/PowerProfileItem.qml:208
 #, kde-format
 msgid ""
-"Performance may be lowered to reduce heat generation because the computer "
-"has detected that it may be sitting on your lap."
+"Performance may be lowered to reduce heat generation because the computer has detected that it may "
+"be sitting on your lap."
 msgstr ""
-"Výkon môže byť znížený, aby sa znížilo vytváranie tepla, pretože počítač "
-"zistil, že vám možno sedí na kolenách."
+"Výkon môže byť znížený, aby sa znížilo vytváranie tepla, pretože počítač zistil, že vám možno sedí "
+"na kolenách."
 
 #: package/contents/ui/PowerProfileItem.qml:210
 #, kde-format
@@ -356,125 +288,84 @@ msgstr "Výkon môže byť znížený."
 #, kde-format
 msgid "One application has requested activating %2:"
 msgid_plural "%1 applications have requested activating %2:"
-msgstr[0] "Jedna aplikácia požiadala o aktiváciu %2:"
-msgstr[1] "%1 aplikácií požiadalo o aktiváciu %2:"
-msgstr[2] "%1 aplikácií požiadalo o aktiváciu %2:"
+msgstr[0] ""
+"Jedna aplikácia požiadala o aktiváciu %2:,%1 aplikácií požiadalo o aktiváciu %2:,%1 aplikácií "
+"požiadalo o aktiváciu %2:"
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/BatteryItem.qml:192
+#, kde-format
+msgctxt "@info"
+msgid "Estimating…"
+msgstr "Odhadovanie..."
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is battery health percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "Placeholder is brightness percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/CompactRepresentation.qml:103
+#, kde-format
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/logic.js:35
+#, kde-format
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Nie je prítomná"
+
+#: package/contents/ui/main.qml:177
+#, kde-format
+msgctxt "time until fully charged - HH:MM"
+msgid "%1 until fully charged"
+msgstr "%1 do úplného nabitia"
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgctxt "remaining time left of battery usage - HH:MM"
+msgid "%1 remaining"
+msgstr "%1 zostáva"
+
+#: package/contents/ui/PowerManagementItem.qml:42
+#, kde-format
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Manually block sleep and screen locking"
+msgstr "Ručne zakázať spánok a uzamknutie obrazovky"
+
+#: package/contents/ui/PowerManagementItem.qml:75
+#, kde-format
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
+msgstr "Váš notebook je nastavený, aby sa neuspal pri zatvorení veka, ak je pripojený externý monitor."
 
 #: package/contents/ui/PowerProfileItem.qml:241
 #, kde-format
-msgctxt ""
-"%1 is the name of the application, %2 is the reason provided by it for "
-"activating performance mode"
+msgctxt "Application name: reason for preventing sleep and screen locking"
 msgid "%1: %2"
 msgstr "%1: %2"
 
-#, fuzzy
-#~| msgid "Performance mode is unavailable."
-#~ msgid "Performance mode has been manually enabled"
-#~ msgstr "Režim vysokého výkonu nie je k dispozícii."
+#: package/contents/ui/PowerManagementItem.qml:113
+#, kde-format
+msgctxt "Application name: reason for preventing sleep and screen locking"
+msgid "%1: unknown reason"
+msgstr "%1: neznámy dôvod"
 
-#~ msgid ""
-#~ "Performance mode is unavailable because the computer has detected it is "
-#~ "sitting on your lap."
-#~ msgstr ""
-#~ "Režim vysokého výkonu nie je k dispozícii, pretože počítač zistil, že "
-#~ "sedí na lone."
-
-#~ msgid "General"
-#~ msgstr "Všeobecné"
-
-#~ msgid "An application is preventing sleep and screen locking:"
-#~ msgstr "Aplikácia zabraňuje spánku a uzamknutiu obrazovky:"
-
-#~ msgctxt "short symbol to signal there is no battery currently available"
-#~ msgid "-"
-#~ msgstr "-"
-
-#~ msgid "Configure Power Saving..."
-#~ msgstr "Nastaviť šetrenie energie..."
-
-#~ msgid "Time To Empty:"
-#~ msgstr "Čas do vybitia:"
-
-#~ msgid ""
-#~ "Disabling power management will prevent your screen and computer from "
-#~ "turning off automatically.\n"
-#~ "\n"
-#~ "Most applications will automatically suppress power management when they "
-#~ "don't want to have you interrupted."
-#~ msgstr ""
-#~ "Zakázanie správy napájania zabráni automatickému vypínaniu vašej "
-#~ "obrazovky a počítača.\n"
-#~ "\n"
-#~ "Väčšina aplikácií automaticky pozastaví správu napájania, ak váš nechcú "
-#~ "rušiť."
-
-#~ msgctxt "Some Application and n others are currently suppressing PM"
-#~ msgid ""
-#~ "%2 and %1 other application are currently suppressing power management."
-#~ msgid_plural ""
-#~ "%2 and %1 other applications are currently suppressing power management."
-#~ msgstr[0] ""
-#~ "Aplikácia %2 a %1 iná aplikácia práve potláčajú správu napájania."
-#~ msgstr[1] ""
-#~ "Aplikácia %2 a %1 iné aplikácie práve potláčajú správu napájania."
-#~ msgstr[2] ""
-#~ "Aplikácia %2 a %1 iných aplikácií práve potláčajú správu napájania."
-
-#~ msgctxt "Some Application is suppressing PM"
-#~ msgid "%1 is currently suppressing power management."
-#~ msgstr "Aplikácia %1 práve potláča správu napájania."
-
-#~ msgctxt "Some Application is suppressing PM: Reason provided by the app"
-#~ msgid "%1 is currently suppressing power management: %2"
-#~ msgstr "Aplikácia %1 práve potláča správu napájania: %2"
-
-#~ msgctxt "Used for measurement"
-#~ msgid "100%"
-#~ msgstr "100%"
-
-#~ msgid "%1% Charging"
-#~ msgstr "%1% Nabíja sa"
-
-#~ msgid "%1% Plugged in"
-#~ msgstr "%1% Pripojené"
-
-#~ msgid "%1% Battery Remaining"
-#~ msgstr "%1% batérie ostáva"
-
-#, fuzzy
-#~| msgid "Capacity:"
-#~ msgctxt "The degradation in the battery's energy capacity"
-#~ msgid "Capacity degradation:"
-#~ msgstr "Kapacita:"
-
-#, fuzzy
-#~| msgctxt "Placeholder is battery percentage"
-#~| msgid "%1%"
-#~ msgctxt "Placeholder is battery's capacity degradation"
-#~ msgid "%1%"
-#~ msgstr "%1%"
-
-#~ msgctxt "Placeholder is battery capacity"
-#~ msgid "%1%"
-#~ msgstr "%1%"
-
-#~ msgid "Vendor:"
-#~ msgstr "Výrobca:"
-
-#~ msgid "Model:"
-#~ msgstr "Model:"
-
-#~ msgid "No screen or keyboard brightness controls available"
-#~ msgstr "Nie sú dostupné žiadne ovládacie prvky obrazovky alebo klávesnice"
-
-#~ msgctxt "Placeholders are current and maximum brightness step"
-#~ msgid "%1/%2"
-#~ msgstr "%1/%2"
-
-#~ msgctxt "Placeholder is battery name"
-#~ msgid "%1:"
-#~ msgstr "%1:"
-
-#~ msgid "N/A"
-#~ msgstr "N/A"
+#: package/contents/ui/PowerProfileItem.qml:241
+#, kde-format
+msgctxt "%1 is the name of the application, %2 is the reason provided by it for activating performance mode"
+msgid "%1: %2"
+msgstr "%1: %2"
